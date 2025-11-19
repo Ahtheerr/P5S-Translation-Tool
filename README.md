@@ -62,4 +62,3 @@ Please be aware that the **Switch** implementation is currently experimental.
 * It has not been thoroughly tested.
 * Some textures may be missing or fail to pack correctly.
 * Use with caution and please report bugs if encountered.
-* Yes, I know there is a desktop.ini file there, I could not remove it and now it is part of the program. Thanks Google Drive!
