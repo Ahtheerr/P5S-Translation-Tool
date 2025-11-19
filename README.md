@@ -11,10 +11,11 @@
 
 Before anything else, huge thanks to the following individuals whose work made this possible:
 
-* **Cethleann**: For the encryption method.
-* **Meloman19**: For the inspiration provided by their *P5R-Translation-Tool*.
+* **[Cethleann](https://github.com/neptuwunium/Cethleann)**: For the encryption method.
+* **[Meloman19](https://github.com/Meloman19/P5R-Translation-Tool)**: For the inspiration provided by their *P5R-Translation-Tool*.
 * **VitaSmith**: For [gust_tools](https://github.com/VitaSmith/gust_tools).
-* **Ultimate ASI Loader**: For ASIs and loading files without overwriting them.
+* **[Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)**: For ASIs and loading files without overwriting them.
+* **Myself**: For [P5SLDT](https://github.com/Ahtheerr/Persona-5-Strikers-LINKDATA-Tool)
 
 ---
 
