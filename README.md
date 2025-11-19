@@ -14,6 +14,7 @@ Before anything else, huge thanks to the following individuals whose work made t
 * **Cethleann**: For the encryption method.
 * **Meloman19**: For the inspiration provided by their *P5R-Translation-Tool*.
 * **VitaSmith**: For [gust_tools](https://github.com/VitaSmith/gust_tools).
+* **Ultimate ASI Loader**: For ASIs and loading files without overwriting them.
 
 ---
 
