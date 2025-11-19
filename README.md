@@ -61,6 +61,3 @@ Please be aware that the **Switch** implementation is currently experimental.
 * It has not been thoroughly tested.
 * Some textures may be missing or fail to pack correctly.
 * Use with caution and please report bugs if encountered.
-
----
-*Made with ❤️ for the Persona Modding Community.*
