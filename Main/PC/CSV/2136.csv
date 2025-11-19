@@ -1,0 +1,395 @@
+"They're not here yet, huh?",0,21,3,-1,6048,0
+"Guess I'm a little early. Maybe I'll just keep
+working on the...",1,21,3,-1,6049,0
+What the hell!?,2,21,4,-1,6050,0
+"Whoa, speak of the devil. Uh... Well, you guys
+got here quick.",3,21,0,-1,6051,0
+I thought we were gonna die...,4,15,5,-1,6052,0
+"I think we already did... My soul's barely
+tethered to my body.",5,85,5,-1,6053,0
+Urp—gonna puke...,6,13,8,-1,6054,0
+O...kay?,7,21,4,-1,6055,0
+"My apologies, Haru, but I request you steer
+clear of the driver's seat from now on. I only
+have so many lives left...",8,16,5,-1,6056,0
+......,9,2,10,-1,6057,0
+Meowgana's unconscious. Wake him up.,10,20,0,-1,6058,0
+"Hey, Okumura. What happened?",11,21,3,-1,6059,0
+Um... I was just driving normally... I think.,12,84,0,-1,6060,0
+Whew... The room finally stopped spinning.,13,15,3,-1,6061,0
+"You have a very, uh, ""unique"" way of driving,
+Haru.",14,2,3,-1,6062,0
+"Why thank you, Mona-chan.",15,84,1,-1,6063,0
+She really shouldn't take it as a compliment...,16,85,3,-1,6064,0
+"Regardless, I'm glad you guys made it here in
+one piece.",17,21,0,-1,6065,0
+"By the way, what is this place? It seems unfit for
+a typical gathering of law enforcement.",18,16,0,-1,6066,0
+"You could call it my secret base, I guess.
+Basically, it's a place to hole up if shit
+ever goes south.",19,21,0,-1,6067,0
+A good friend of mine used to run it.,20,21,0,-1,6068,0
+"But now it's just an empty old bar, suitable for
+investigating far away from any prying eyes.",21,21,0,-1,6069,0
+So this is like your hideout.,22,20,0,-1,6070,0
+"More like a safe room— No, a safe house!",23,85,0,-1,6071,0
+"Those newspapers... Are they not from two years
+prior?",24,16,0,-1,6072,0
+"Those newspapers are irrelevant. We have
+other business to discuss here.",25,21,3,-1,6073,0
+"Then let's hear it, Zenkichi.",26,2,0,-1,6074,0
+All right. Let me break it down for you bit by bit.,27,21,0,-1,6075,0
+"I cross-referenced every name on the list we
+found in Okinawa.",28,21,0,-1,6076,0
+"Based on our assumption that the mastermind
+would stand to benefit from changing hearts
+en masse...",29,21,0,-1,6077,0
+This is who we ended up with.,30,21,0,-1,6078,0
+Yeah... He sure looks like a schemey bastard.,31,13,12,-1,6079,0
+"Don't I know it... To think he'd turn up now
+of all times...",32,21,3,-1,6080,1
+Something wrong?,33,12,-1,-1,-1,0
+Do you know him?,34,12,-1,-1,-1,0
+"...No, not in particular.",35,21,3,-1,6081,0
+"Anyway, the man's name is Jyun Owada. At 69
+years old, he's on his tenth term as a legislator.",36,21,0,-1,6082,0
+"Not only that, but he worked his way up to
+Chief Cabinet Secretary of the ruling party.
+In short, he's not someone to mess with.",37,21,0,-1,6083,0
+"They say he was a Masayoshi Shido supporter
+during the election last year.",38,21,0,-1,6084,0
+Did you say Shido!?,39,2,4,-1,6085,0
+"Unbelievable... I never thought I'd hear his
+name again.",40,16,2,-1,6086,0
+Do you know him?,41,20,0,-1,6087,1
+He was our former enemy.,42,12,-1,-1,-1,0
+He was a powerful foe.,43,12,-1,-1,-1,0
+I'd rather not remember.,44,12,-1,-1,-1,0
+"Yeah, and one HELL of an evil asshole.",45,13,12,-1,6088,0
+"Man, he totally tried to screw up your entire
+life... I get why you'd wanna block him out.",46,13,12,-1,6089,0
+Oh... I didn't know.,47,20,2,-1,6090,0
+"Sounds like you and Shido had quite the
+history. But we're not after him right now.",48,21,0,-1,6091,0
+"That list contained a handful of Owada's
+political opponents—people he'd rather
+not have around.",49,21,0,-1,6092,0
+So it's clear he's behind all this.,50,21,0,-1,6093,0
+"However, I highly doubt he's doing his own
+dirty work. He'd have a heck of a time getting
+his political opponents to friend him on EMMA.",51,21,3,-1,6094,0
+"After checking his inner circle for sympathizers,
+I found out he's been meeting with a certain
+entrepreneur. Quite often, too.",52,21,0,-1,6095,1
+The CEO of Madicce?,53,12,-1,-1,-1,0
+Is it Shido?,54,12,-1,-1,-1,0
+"It's not you, is it?",55,12,-1,-1,-1,0
+"Nice guess. It's the CEO of Madicce all right:
+Akira Konoe.",56,21,1,-1,6096,0
+"I told you, he's not our guy. It's the CEO of
+Madicce: Akira Konoe.",57,21,0,-1,6097,0
+"Are you tryin' to piss me off? Look, it's the CEO
+of Madicce: Akira Konoe.",58,21,2,-1,6098,0
+"Isn't the CEO of Madicce the guy we heard 
+speak back in Sendai?",59,15,4,-1,6099,0
+"I came across communication records between
+him and the director at Okinawa... and it
+showed they kept in contact.",60,21,0,-1,6100,0
+Then the pieces all fit.,61,17,2,-1,6101,0
+Yeah.,62,21,0,-1,6102,0
+"Whenever Owada wants someone out of his
+way, he calls on Konoe to take action...",63,21,0,-1,6103,0
+"And the director at Okinawa was likely the one who arranged this. Now, it's too late to tell.",64,21,0,-1,6104,0
+"Hold on. If Konoe's the one changing hearts,
+does that make him a Monarch too?",65,85,4,-1,6105,0
+"But he's the CEO of Madicce. Wouldn't he get
+one of his subordinates to do the job for him?",66,84,4,-1,6106,0
+I suppose it would be natural to assume that.,67,21,0,-1,6107,0
+"But as you all know, in order to change
+someone's heart, you need to be their
+friend on EMMA.",68,21,0,-1,6108,0
+"Everyone Owada associates with is a big-time
+elite. And Konoe's the only one in their league.",69,21,0,-1,6109,0
+"Besides, he's the head of a huge company.
+If anything, I think he'd want to be a Monarch
+as well.",70,2,2,-1,6110,0
+"He wouldn't want to risk his heart getting
+changed by someone else, either.",71,2,2,-1,6111,0
+"Another thing. The people on that list most
+likely had their hearts changed in Osaka.",72,21,0,-1,6112,0
+Huh? Why do you say that?,73,15,4,-1,6113,0
+"Everyone on that list who went crazy had
+all traveled to Osaka at some point.",74,21,0,-1,6114,0
+That's also where Madicce's main office is.,75,21,0,-1,6115,0
+"Meaning there's a good chance we'll find
+a Jail in Osaka... with Konoe as its Monarch.",76,21,0,-1,6116,0
+"Though, the only way we'll know for sure
+is if Sophia senses it.",77,21,0,-1,6117,0
+I did sense a Jail.,78,20,0,-1,6118,0
+Huh!?,79,13,4,-1,6119,0
+"Oh, right, we did pass through Osaka when I
+took a wrong turn.",80,84,4,-1,6120,0
+"Sophia, you shoulda spoken up!",81,13,4,-1,6121,0
+"I did speak up. But you guys were too busy
+to listen.",82,20,0,-1,6122,0
+If it was when Haru was driving...,83,15,3,-1,6123,0
+"Then we were likely too busy screaming
+for our lives...",84,16,3,-1,6124,0
+Hm?,85,84,4,-1,6125,0
+"Well, that certainly makes things easier.
+So it's confirmed there's a Jail in Osaka.",86,21,0,-1,6126,0
+"Now we just need to determine whether
+Konoe's the Monarch or not.",87,21,0,-1,6127,0
+"Wait, if you know that much already, why not
+cuff his ass right now!?",88,13,12,-1,6128,1
+We have no proof.,89,12,-1,-1,-1,0
+There's a reason.,90,12,-1,-1,-1,0
+I agree.,91,12,-1,-1,-1,0
+Right. Now here's the issue.,92,21,3,-1,6129,0
+There's a problem with that.,93,21,3,-1,6130,0
+"That list only spells out his motives and
+connections. It isn't solid proof that
+he's been changing hearts.",94,21,0,-1,6131,0
+"We can't arrest him on speculation alone.
+The most we can do is conduct a search,
+and that's only with his consent.",95,21,0,-1,6132,0
+"Hell, he could pack up and run if he wanted to.
+We don't have any legal authority over him.",96,21,0,-1,6133,0
+"Another thing I noticed is how many high-
+ranking members of the force were on that list.",97,21,3,-1,6134,0
+"You think he's changed their hearts too?
+To get the police in his pocket?",98,17,4,-1,6135,0
+"Yeah, and from the look of it, not just the
+rank-and-file, either.",99,21,3,-1,6136,0
+"So that's why you called us here... Because you
+don't know who the real enemies are.",100,17,2,-1,6137,0
+"The most I can do without being traced is some
+light investigation. And even then, that might be
+impossible.",101,21,3,-1,6138,0
+"If it's the top brass we're dealing with, they
+might just leak the info and take action before I
+can lift a finger.",102,21,3,-1,6139,0
+"In other words, the police are not our allies.",103,16,2,-1,6140,0
+"Heh, what else is new?",104,13,1,-1,6141,0
+...You do realize I'm also a man in uniform?,105,21,8,-1,6142,0
+"Anyway, it's obvious that going about this the
+regular way is out of the question.",106,21,3,-1,6143,0
+"What we need is something a bit more
+uncanny... Something only you guys are
+capable of.",107,21,0,-1,6144,1
+You want us to change his heart?,108,12,-1,-1,-1,0
+You want us to torture him?,109,12,-1,-1,-1,0
+You want us to kidnap him?,110,12,-1,-1,-1,0
+"Right. If Konoe really is a Monarch, we can
+corner him into a confession.",111,21,0,-1,6145,0
+"Come on, I can do that on my own— Wait, like
+hell I can! That's illegal!",112,21,2,-1,6146,0
+"If our hunch is right, and he really is the
+Monarch, we can grab a confession out of him!",113,21,0,-1,6147,0
+"That's right. We completely overlooked the
+fact that Konoe has a Jail.",114,2,2,-1,6148,0
+But won't we need a keyword to gain access?,115,17,0,-1,6149,0
+Precisely why I had you rush over here.,116,21,0,-1,6150,0
+"I'll be meeting Konoe at Madicce's
+corporate headquarters today.",117,21,0,-1,6151,0
+Really? How'd you manage that?,118,15,4,-1,6152,0
+"By going about it like a cop. Told 'em we had
+intel about a possible security leak involving
+their software.",119,21,0,-1,6153,0
+"""We received information about a possible
+party attempting to hack EMMA,"" so on and
+so forth.",120,21,0,-1,6154,0
+"Ooh, does somebody need a hacker?",121,85,0,-1,6155,0
+"Not even that. I only said it to score me an
+appointment.",122,21,0,-1,6156,0
+"At the end of it, I'll suggest he add me on EMMA
+so I can answer any further questions, and we'll
+have ourselves a keyword.",123,21,0,-1,6157,0
+"In his mind, I'll be just another pawn for the
+taking. So I'm pretty sure he'll take the bait.",124,21,0,-1,6158,0
+"The moment I get the keyword—if I get the
+keyword—I'll send it right over.",125,21,1,-1,6159,0
+"That's what I've been meaning to tell you.
+Hope it was worth the drive.",126,21,0,-1,6160,0
+"Wait, if you're gonna hit up their office, that
+means you're goin' to Osaka, right? Let us
+come with.",127,13,0,-1,6161,0
+"The sooner we enter the Jail, the sooner we can
+finish this operation.",128,16,0,-1,6162,0
+"Fair, but there's a chance I might not get the
+keyword. Tagging along for nothing would
+be a wasted effort.",129,21,3,-1,6163,0
+"Besides, doesn't Niijima need a breather?
+In fact, you all look like you need one.",130,21,0,-1,6164,0
+Can't really argue with that...,131,17,3,-1,6165,0
+"Bottom line is, if you guys go down,
+so does everything I've worked for.",132,21,0,-1,6166,0
+So I need you fighting at your best.,133,21,0,-1,6167,0
+Got it. So our job's to wait until further contact.,134,2,2,-1,6168,0
+"What the hell, now we gotta wait even more?",135,13,3,-1,6169,0
+"Oh? You really wanna complain, right when I'm
+about to tell you the big surprise I have in store
+for you?",136,21,1,-1,6170,0
+What big surprise?,137,84,4,-1,6171,0
+未作成テキスト,138,-1,-1,-1,-1,0
+未作成テキスト,139,-1,-1,-1,-1,0
+未作成テキスト,140,-1,-1,-1,-1,0
+未作成テキスト,141,-1,-1,-1,-1,0
+未作成テキスト,142,-1,-1,-1,-1,0
+未作成テキスト,143,-1,-1,-1,-1,0
+未作成テキスト,144,-1,-1,-1,-1,0
+未作成テキスト,145,-1,-1,-1,-1,0
+未作成テキスト,146,-1,-1,-1,-1,0
+未作成テキスト,147,-1,-1,-1,-1,0
+未作成テキスト,148,-1,-1,-1,-1,0
+未作成テキスト,149,-1,-1,-1,-1,0
+未作成テキスト,150,-1,-1,-1,-1,0
+未作成テキスト,151,-1,-1,-1,-1,0
+未作成テキスト,152,-1,-1,-1,-1,0
+未作成テキスト,153,-1,-1,-1,-1,0
+未作成テキスト,154,-1,-1,-1,-1,0
+未作成テキスト,155,-1,-1,-1,-1,0
+未作成テキスト,156,-1,-1,-1,-1,0
+未作成テキスト,157,-1,-1,-1,-1,0
+未作成テキスト,158,-1,-1,-1,-1,0
+未作成テキスト,159,-1,-1,-1,-1,0
+未作成テキスト,160,-1,-1,-1,-1,0
+未作成テキスト,161,-1,-1,-1,-1,0
+未作成テキスト,162,-1,-1,-1,-1,0
+未作成テキスト,163,-1,-1,-1,-1,0
+未作成テキスト,164,-1,-1,-1,-1,0
+未作成テキスト,165,-1,-1,-1,-1,0
+未作成テキスト,166,-1,-1,-1,-1,0
+未作成テキスト,167,-1,-1,-1,-1,0
+未作成テキスト,168,-1,-1,-1,-1,0
+未作成テキスト,169,-1,-1,-1,-1,0
+未作成テキスト,170,-1,-1,-1,-1,0
+未作成テキスト,171,-1,-1,-1,-1,0
+未作成テキスト,172,-1,-1,-1,-1,0
+未作成テキスト,173,-1,-1,-1,-1,0
+未作成テキスト,174,-1,-1,-1,-1,0
+未作成テキスト,175,-1,-1,-1,-1,0
+未作成テキスト,176,-1,-1,-1,-1,0
+未作成テキスト,177,-1,-1,-1,-1,0
+未作成テキスト,178,-1,-1,-1,-1,0
+未作成テキスト,179,-1,-1,-1,-1,0
+未作成テキスト,180,-1,-1,-1,-1,0
+未作成テキスト,181,-1,-1,-1,-1,0
+未作成テキスト,182,-1,-1,-1,-1,0
+未作成テキスト,183,-1,-1,-1,-1,0
+未作成テキスト,184,-1,-1,-1,-1,0
+未作成テキスト,185,-1,-1,-1,-1,0
+未作成テキスト,186,-1,-1,-1,-1,0
+未作成テキスト,187,-1,-1,-1,-1,0
+未作成テキスト,188,-1,-1,-1,-1,0
+未作成テキスト,189,-1,-1,-1,-1,0
+未作成テキスト,190,-1,-1,-1,-1,0
+未作成テキスト,191,-1,-1,-1,-1,0
+未作成テキスト,192,-1,-1,-1,-1,0
+未作成テキスト,193,-1,-1,-1,-1,0
+未作成テキスト,194,-1,-1,-1,-1,0
+未作成テキスト,195,-1,-1,-1,-1,0
+未作成テキスト,196,-1,-1,-1,-1,0
+未作成テキスト,197,-1,-1,-1,-1,0
+未作成テキスト,198,-1,-1,-1,-1,0
+未作成テキスト,199,-1,-1,-1,-1,0
+未作成テキスト,200,-1,-1,-1,-1,0
+未作成テキスト,201,-1,-1,-1,-1,0
+未作成テキスト,202,-1,-1,-1,-1,0
+未作成テキスト,203,-1,-1,-1,-1,0
+未作成テキスト,204,-1,-1,-1,-1,0
+未作成テキスト,205,-1,-1,-1,-1,0
+未作成テキスト,206,-1,-1,-1,-1,0
+未作成テキスト,207,-1,-1,-1,-1,0
+未作成テキスト,208,-1,-1,-1,-1,0
+未作成テキスト,209,-1,-1,-1,-1,0
+未作成テキスト,210,-1,-1,-1,-1,0
+未作成テキスト,211,-1,-1,-1,-1,0
+未作成テキスト,212,-1,-1,-1,-1,0
+未作成テキスト,213,-1,-1,-1,-1,0
+未作成テキスト,214,-1,-1,-1,-1,0
+未作成テキスト,215,-1,-1,-1,-1,0
+未作成テキスト,216,-1,-1,-1,-1,0
+未作成テキスト,217,-1,-1,-1,-1,0
+未作成テキスト,218,-1,-1,-1,-1,0
+未作成テキスト,219,-1,-1,-1,-1,0
+未作成テキスト,220,-1,-1,-1,-1,0
+未作成テキスト,221,-1,-1,-1,-1,0
+未作成テキスト,222,-1,-1,-1,-1,0
+未作成テキスト,223,-1,-1,-1,-1,0
+未作成テキスト,224,-1,-1,-1,-1,0
+未作成テキスト,225,-1,-1,-1,-1,0
+未作成テキスト,226,-1,-1,-1,-1,0
+未作成テキスト,227,-1,-1,-1,-1,0
+未作成テキスト,228,-1,-1,-1,-1,0
+未作成テキスト,229,-1,-1,-1,-1,0
+未作成テキスト,230,-1,-1,-1,-1,0
+未作成テキスト,231,-1,-1,-1,-1,0
+未作成テキスト,232,-1,-1,-1,-1,0
+未作成テキスト,233,-1,-1,-1,-1,0
+未作成テキスト,234,-1,-1,-1,-1,0
+未作成テキスト,235,-1,-1,-1,-1,0
+未作成テキスト,236,-1,-1,-1,-1,0
+未作成テキスト,237,-1,-1,-1,-1,0
+未作成テキスト,238,-1,-1,-1,-1,0
+未作成テキスト,239,-1,-1,-1,-1,0
+未作成テキスト,240,-1,-1,-1,-1,0
+未作成テキスト,241,-1,-1,-1,-1,0
+未作成テキスト,242,-1,-1,-1,-1,0
+未作成テキスト,243,-1,-1,-1,-1,0
+未作成テキスト,244,-1,-1,-1,-1,0
+未作成テキスト,245,-1,-1,-1,-1,0
+未作成テキスト,246,-1,-1,-1,-1,0
+未作成テキスト,247,-1,-1,-1,-1,0
+未作成テキスト,248,-1,-1,-1,-1,0
+未作成テキスト,249,-1,-1,-1,-1,0
+未作成テキスト,250,-1,-1,-1,-1,0
+未作成テキスト,251,-1,-1,-1,-1,0
+未作成テキスト,252,-1,-1,-1,-1,0
+未作成テキスト,253,-1,-1,-1,-1,0
+未作成テキスト,254,-1,-1,-1,-1,0
+未作成テキスト,255,-1,-1,-1,-1,0
+未作成テキスト,256,-1,-1,-1,-1,0
+未作成テキスト,257,-1,-1,-1,-1,0
+未作成テキスト,258,-1,-1,-1,-1,0
+未作成テキスト,259,-1,-1,-1,-1,0
+未作成テキスト,260,-1,-1,-1,-1,0
+未作成テキスト,261,-1,-1,-1,-1,0
+未作成テキスト,262,-1,-1,-1,-1,0
+未作成テキスト,263,-1,-1,-1,-1,0
+未作成テキスト,264,-1,-1,-1,-1,0
+未作成テキスト,265,-1,-1,-1,-1,0
+未作成テキスト,266,-1,-1,-1,-1,0
+未作成テキスト,267,-1,-1,-1,-1,0
+未作成テキスト,268,-1,-1,-1,-1,0
+未作成テキスト,269,-1,-1,-1,-1,0
+未作成テキスト,270,-1,-1,-1,-1,0
+未作成テキスト,271,-1,-1,-1,-1,0
+未作成テキスト,272,-1,-1,-1,-1,0
+未作成テキスト,273,-1,-1,-1,-1,0
+未作成テキスト,274,-1,-1,-1,-1,0
+未作成テキスト,275,-1,-1,-1,-1,0
+未作成テキスト,276,-1,-1,-1,-1,0
+未作成テキスト,277,-1,-1,-1,-1,0
+未作成テキスト,278,-1,-1,-1,-1,0
+未作成テキスト,279,-1,-1,-1,-1,0
+未作成テキスト,280,-1,-1,-1,-1,0
+未作成テキスト,281,-1,-1,-1,-1,0
+未作成テキスト,282,-1,-1,-1,-1,0
+未作成テキスト,283,-1,-1,-1,-1,0
+未作成テキスト,284,-1,-1,-1,-1,0
+未作成テキスト,285,-1,-1,-1,-1,0
+未作成テキスト,286,-1,-1,-1,-1,0
+未作成テキスト,287,-1,-1,-1,-1,0
+未作成テキスト,288,-1,-1,-1,-1,0
+未作成テキスト,289,-1,-1,-1,-1,0
+未作成テキスト,290,-1,-1,-1,-1,0
+未作成テキスト,291,-1,-1,-1,-1,0
+未作成テキスト,292,-1,-1,-1,-1,0
+未作成テキスト,293,-1,-1,-1,-1,0
+未作成テキスト,294,-1,-1,-1,-1,0
+未作成テキスト,295,-1,-1,-1,-1,0
+未作成テキスト,296,-1,-1,-1,-1,0
+未作成テキスト,297,-1,-1,-1,-1,0
+未作成テキスト,298,-1,-1,-1,-1,0
+未作成テキスト,299,-1,-1,-1,-1,0

@@ -1,0 +1,113 @@
+{
+    "json_version": 0x2,
+    "name": "e74d41db.g1t",
+    "version": 0x3c,
+    "platform": "Windows",
+    "textures": [
+        {
+            "name": "000.dds",
+            "type": 0x5b,
+            "flags": [
+                "SRGB_COLORSPACE",
+                "EXTENDED_DATA",
+                "SURFACE_TEXTURE",
+                "FLAG_009",
+                "FLAG_017",
+                "FLAG_024",
+                "FLAG_025",
+                "FLAG_028",
+                "FLAG_029"
+            ]
+        },
+        {
+            "name": "001.dds",
+            "type": 0x5b,
+            "flags": [
+                "SRGB_COLORSPACE",
+                "EXTENDED_DATA",
+                "SURFACE_TEXTURE",
+                "FLAG_009",
+                "FLAG_017",
+                "FLAG_024",
+                "FLAG_025",
+                "FLAG_028",
+                "FLAG_029"
+            ]
+        },
+        {
+            "name": "002.dds",
+            "type": 0x5b,
+            "flags": [
+                "SRGB_COLORSPACE",
+                "EXTENDED_DATA",
+                "SURFACE_TEXTURE",
+                "FLAG_009",
+                "FLAG_017",
+                "FLAG_024",
+                "FLAG_025",
+                "FLAG_028",
+                "FLAG_029"
+            ]
+        },
+        {
+            "name": "003.dds",
+            "type": 0x5b,
+            "flags": [
+                "SRGB_COLORSPACE",
+                "EXTENDED_DATA",
+                "SURFACE_TEXTURE",
+                "FLAG_009",
+                "FLAG_017",
+                "FLAG_024",
+                "FLAG_025",
+                "FLAG_028",
+                "FLAG_029"
+            ]
+        },
+        {
+            "name": "004.dds",
+            "type": 0x5b,
+            "flags": [
+                "SRGB_COLORSPACE",
+                "EXTENDED_DATA",
+                "SURFACE_TEXTURE",
+                "FLAG_009",
+                "FLAG_017",
+                "FLAG_024",
+                "FLAG_025",
+                "FLAG_028",
+                "FLAG_029"
+            ]
+        },
+        {
+            "name": "005.dds",
+            "type": 0x5b,
+            "flags": [
+                "SRGB_COLORSPACE",
+                "EXTENDED_DATA",
+                "SURFACE_TEXTURE",
+                "FLAG_009",
+                "FLAG_017",
+                "FLAG_024",
+                "FLAG_025",
+                "FLAG_028",
+                "FLAG_029"
+            ]
+        },
+        {
+            "name": "006.dds",
+            "type": 0x5b,
+            "flags": [
+                "SRGB_COLORSPACE",
+                "EXTENDED_DATA",
+                "SURFACE_TEXTURE",
+                "FLAG_009",
+                "FLAG_017",
+                "FLAG_024",
+                "FLAG_025",
+                "FLAG_028",
+                "FLAG_029"
+            ]
+        }
+    ]
+}

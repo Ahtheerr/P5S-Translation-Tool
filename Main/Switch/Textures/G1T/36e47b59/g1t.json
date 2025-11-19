@@ -1,0 +1,30 @@
+{
+    "json_version": 0x2,
+    "name": "36e47b59.g1t",
+    "version": 0x3c,
+    "platform": "Windows",
+    "textures": [
+        {
+            "name": "000.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA",
+                "SURFACE_TEXTURE",
+                "FLAG_024",
+                "FLAG_028"
+            ]
+        },
+        {
+            "name": "001.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA",
+                "SURFACE_TEXTURE",
+                "FLAG_024",
+                "FLAG_028"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1022 @@
+Game Settings
+Sound Settings
+Display Settings
+Graphic Settings
+Key Configuration
+BGM Volume
+SE Volume
+Voice Volume
+Audio Output
+Adjusts the volume of background music.
+Adjusts the volume of sound effects.
+Adjusts the volume of voices.
+Change the audio output to surround sound.
+Display Settings
+Resolution
+FPS
+Vsync
+Monitor
+Change the game's display settings.
+"Change resolution.
+Lowering this may improve performance."
+"Change FPS.
+Lowering this may improve performance."
+"Turn Vsync on or off.
+Turning this on may improve the display."
+Choose which monitor will be used.
+Graphic Quality Settings (Overall)
+Shadow
+Texture Quality
+Anti-aliasing
+Ambient Occlusion
+Bloom
+Radial Blur
+Screen Space Reflection
+Depth of Field
+Rendering Scale
+Adjust the overall graphics quality.
+"Adjust shadow quality.
+Lowering this may improve performance."
+"Adjust texture quality.
+Will be reflected after the next game Load."
+"Adjust smoothing of jagged edges.
+Lowering this may improve performance."
+"Adjust the shading technique for natural-looking shadows.
+Turning this off may improve performance."
+"Adjust bloom display.
+Turning this off may improve performance."
+"Adjust blur display.
+Turning this off may improve performance."
+"Adjust natural-looking lighting.
+Turning this off may improve performance."
+"Adjust depth of field.
+Turning this off may improve performance."
+"Adjust rendering scale.
+Lowering this may improve performance."
+Select Persona skill activation button
+Play Movie
+[1B]A1Changes the button for activating Persona skills from [1B]P1 to [1B]P0.[1B]A0
+Change whether or not movies will be played.
+Unused
+Unused
+Unused
+"Changes have been made to the rendering settings.
+Would you like to save these changes?
+The game will revert to the previous settings in %d seconds."
+Some changes will only be applied after restarting the game.
+Unused
+Movie Volume
+Adjusts the volume of cinematic scenes.
+Mouse Sensitivity
+Gamepad Sensitivity
+Adjusts the sensitivity of the mouse.
+Adjusts the sensitivity of the gamepad analog sticks.
+Credits
+Credits (Localization)
+未作成テキスト
+Master Volume
+Adjusts the volume of all sounds.
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+BATTLE
+Move (Forward)
+Move (Back)
+Move (Left)
+Move (Right)
+Standard Attack
+Special Attack/Ambush
+Phantom Dash/All-Out Attack/Interact
+Jump
+Showtime
+Summon Persona
+Gun/Reset Camera
+Dodge/Dash
+Third Eye
+Move Camera (Forward)
+Baton Pass (Up)
+Baton Pass (Left)
+Baton Pass (Right)
+Lock-On
+All-Out Attack (Shortcut)
+SYSTEM
+Confirm
+Cancel
+Auto-Recover
+Menu/Skip
+Save/Fast Forward
+Log
+Auto (Dialogue)
+Map
+Toggle Control R1
+Toggle Control L1
+Toggle Control R2
+Toggle Control L2
+COMMON
+Move Camera (Back)
+Move Camera (Left)
+Move Camera (Right)
+Move Cursor (Up)
+Move Cursor (Down)
+Move Cursor (Left)
+Move Cursor (Right)
+Phantom Dash (Shortcut)
+Showtime (Shortcut)
+Walk
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+This key is already in use. Remap key?
+Settings changed.
+"Exit the Config menu without
+saving your changes?"
+Restore default Keyboard settings?
+Restore default Mouse settings?
+Restore default Gamepad settings?
+There is an unassigned command.
+"Press the key you wish to assign.
+Pressing Esc will return you to the menu."
+"Press the button you wish to assign.
+Pressing Esc will return you to the menu."
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+This command also brings up the save menu.
+NO_USE
+Assigns Phantom Dash to a different command.
+Assigns All-out Attack to a different command.
+NO_USE
+"Assigns Showtime to a separate, single command."
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+You can also do this by pressing up on the D-pad.
+You can also do this by pressing left on the D-pad.
+You can also do this by pressing right on the D-pad.
+You can also do this by pressing down on the D-pad.
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+NO_USE
+You can also do this by pressing up on the D-pad.
+You can also do this by pressing down on the D-pad.
+You can also do this by pressing left on the D-pad.
+You can also do this by pressing right on the D-pad.
+"If Confirm or Cancel are set to the same key, the Confirm or Cancel command will be prioritized."
+Holding this key while moving will allow you to walk instead of run.
+This command is also used for Persona skill activation.
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+Close the game?
+"No save data found for Persona 5 Strikers.
+The game cannot be started without save data."
+Create new save data?
+"The data was not saved.
+Would you like to continue?"
+Save failed.
+Unused
+"You have received the ""Persona 5 Music Set""
+for clearing the the game."
+"Normal battle music can be
+changed via the ""Change Battle
+Music"" option in the config menu."
+Unused
+WARNING
+Gamepad is no longer connected.
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト
+未作成テキスト

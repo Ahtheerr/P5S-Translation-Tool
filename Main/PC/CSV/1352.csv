@@ -1,0 +1,355 @@
+"Now that we're all together, let's talk about the
+Monarch of Sapporo.",0,21,0,-1,3829,0
+"Our suspect's name is Mariko Hyodo. Oh, and—
+wait for it—she's the mayor of Sapporo Central.",1,21,0,-1,3830,0
+Our target's a mayor!?,2,85,4,-1,3831,0
+"No way! Wouldn't that make her the most
+influential person in Sapporo?",3,15,4,-1,3832,0
+How could someone like that be a Monarch?,4,16,2,-1,3833,1
+Shido wasn't so different.,5,12,-1,-1,-1,0
+This could complicate things.,6,12,-1,-1,-1,0
+This is true. Such things have happened before.,7,16,2,-1,3834,0
+"I'm assuming she has connections within the
+force, so it may be unwise to provoke her.",8,21,3,-1,3835,0
+How'd you find out she's the one?,9,13,0,-1,3836,0
+Because everybody's suddenly in love with her.,10,21,0,-1,3837,0
+"Mayor Hyodo's approval rating now sits at a
+lofty 88%. She gained fifty points in the last
+two months alone.",11,21,0,-1,3838,0
+Did you say fifty!?,12,17,4,-1,3839,0
+So she got crazy popular outta nowhere?,13,85,4,-1,3840,0
+It's more than just crazy. It's unheard of.,14,17,2,-1,3841,0
+There's more.,15,21,0,-1,3842,0
+"Last month, three city councilmen who
+opposed her bill admitted to corruption
+and resigned.",16,21,0,-1,3843,0
+"Any remaining councilmen who opposed
+her suddenly became her most fervent
+advocates.",17,21,0,-1,3844,0
+"Not to mention, the election's coming up.
+It's all too convenient.",18,21,3,-1,3845,0
+"Rumor has it, Hyodo wants to expand her
+political influence to the national level.
+PubSec's been investigating that... But alas.",19,21,0,-1,3846,0
+"We haven't run across any solid leads just yet.
+So what do you make of all this?",20,21,0,-1,3847,1
+Someone's changing hearts.,21,12,-1,-1,-1,0
+Sure it's not just coincidence?,22,12,-1,-1,-1,0
+Bingo. And that's where you come in.,23,21,1,-1,3848,0
+"A coincidence wouldn't last this long.
+Or go this deep.",24,21,3,-1,3849,0
+"It is suspicious, I will admit.",25,16,2,-1,3850,0
+"But we'd need a keyword to confirm
+whether she's a Monarch or not.",26,2,2,-1,3851,0
+"That won't be a problem. She's already
+referenced EMMA several times in her
+speeches.",27,21,0,-1,3852,0
+"Meaning there's a good chance she's been 
+announcing her keyword in public.",28,21,0,-1,3853,0
+"So you're saying we can find out her keyword
+if we go see her speak?",29,15,0,-1,3854,0
+"Very likely, yes.",30,21,0,-1,3855,0
+"In fact, Hyodo's gonna be in Suzushino
+on the 10th making a speech.",31,21,0,-1,3856,0
+"Since it's close to the election, the crowds
+may well be in the thousands.",32,21,0,-1,3857,0
+That's a grip...,33,13,4,-1,3858,0
+"If she is indeed changing people's hearts, then
+perhaps this is no surprise.",34,16,2,-1,3859,0
+Hmm...,35,84,3,-1,3860,0
+"Is something wrong, Haru?",36,17,0,-1,3861,0
+"No, it's just... Mm, it's hard to explain.",37,84,3,-1,3862,0
+"Mariko... Hyodo... The name seems familiar
+somehow.",38,84,3,-1,3863,0
+"I mean, she is the mayor of town. Maybe you've
+heard her name on TV?",39,15,0,-1,3864,0
+Possibly...,40,84,3,-1,3865,0
+Sorry. Let's put that aside for now.,41,84,0,-1,3866,0
+"Whatever you do, don't try and contact her
+directly. I'm saying this to keep you safe.",42,21,0,-1,3867,0
+It'll be a downright pain in the ass if she finds out we're on to her. I suggest you enjoy your leisure time until the day of the speech.,43,21,0,-1,3868,0
+"...Hey, [1B]S1.",44,17,0,-1,3869,0
+"Should we tell him what happened with
+Ichinose-san? She's an important part of
+our investigation now.",45,17,0,-1,3870,1
+"Yeah, he should know.",46,12,-1,-1,-1,0
+Let's not tell him just yet.,47,12,-1,-1,-1,0
+All right.,48,17,0,-1,3871,0
+You two have somethin' you wanna share?,49,21,0,-1,3872,0
+"I can hear you, you know. Mind filling me in?",50,21,0,-1,3873,0
+I think you ought to give Zenkichi the details.,51,2,0,-1,3874,0
+You made a deal with the inventor of EMMA!?,52,21,4,-1,3875,0
+"Wait, hold on. That's Kuon Ichinose, you said?
+Where have I heard that before...",53,21,3,-1,3876,0
+"Right, she was on my report. Ichinose's the
+one who wrote EMMA from scratch.",54,21,3,-1,3877,0
+Were you lookin' into her?,55,13,0,-1,3878,0
+"I was looking into Madicce, actually.
+Wasn't long before her name popped up.",56,21,0,-1,3879,0
+"""The famous inventor who sold off EMMA to
+Madicce."" Tell me, how'd you get cozy with
+someone like that?",57,21,0,-1,3880,0
+"Oh, well... I guess it just sorta happened?",58,15,3,-1,3881,0
+"What matters is her familiarity with EMMA.
+If anyone abuses it, she could help us find out
+who and why.",59,17,0,-1,3882,0
+"Only Ichinose knows EMMA's ins and outs, no
+matter what version it is.",60,85,0,-1,3883,0
+"Makes sense. The report didn't make her out to
+be somebody dangerous.",61,21,3,-1,3884,0
+"And while she does sound like a valuable
+source of info—I really want you guys to
+be more careful about this operation.",62,21,0,-1,3885,0
+"I'm trusting you guys a lot by sharing all this
+classified intel. So I'd prefer you don't go
+creating liabilities like this behind my back.",63,21,0,-1,3886,0
+Understood. We'll take your advice to heart.,64,17,0,-1,3887,0
+"Good, and besides—shouldn't I be your go-to
+guy for help?",65,21,1,-1,3888,0
+"Seeing you guys run off making confidants left
+and right makes me feel like a lonely old man!",66,21,8,-1,3889,0
+Are you trying to gain our trust or get attention?,67,85,3,-1,3890,0
+"Hate to say it, Gramps, but we do shit on our
+own 'cause your help only gets us so far.",68,13,12,-1,3891,0
+"What, it's not my fault I'm not an expert on
+all this cognitive mumbo-jumbo.",69,21,8,-1,3892,0
+"And would it kill you to ditch the ""Gramps""?
+I'm as fly as any one of you kids!",70,21,0,-1,3893,0
+......,71,15,3,-1,3894,0
+......,72,17,3,-1,3895,0
+At least say something!,73,21,4,-1,3896,1
+Your glasses are nice.,74,12,-1,-1,-1,0
+That goatee's a statement.,75,12,-1,-1,-1,0
+I don't need your pity!,76,21,8,-1,3897,0
+You're the one bringin' it up...,77,13,3,-1,3898,0
+"Never mind that! Point is, there's a speech on
+the 10th and I'm counting on you to be there.",78,21,0,-1,3899,0
+"I wish there was something we could do until
+then... I'm not a fan of waiting.",79,17,3,-1,3900,0
+"What else can we do but be prepared and keep
+ourselves in top condition?",80,84,0,-1,3901,0
+"It's like Zenkichi said earlier—let's enjoy our
+leisure time and make the most of our trip.",81,2,0,-1,3902,0
+"Hey, since we're in Hokkaido, we should chow
+down on seafood!",82,13,1,-1,3903,0
+"I hear Hokkaido soup curry is also not to be
+missed.",83,16,1,-1,3904,0
+"I'd like to visit the former government office.
+Their flowers are supposed to be breathtaking.",84,84,1,-1,3905,0
+"Okay. Then I'll set a route that takes us to
+each of those destinations.",85,20,1,-1,3906,0
+"Thanks, Sophia! The directions are all yours
+tomorrow!",86,15,1,-1,3907,0
+未作成テキスト,87,-1,-1,-1,-1,0
+未作成テキスト,88,-1,-1,-1,-1,0
+未作成テキスト,89,-1,-1,-1,-1,0
+未作成テキスト,90,-1,-1,-1,-1,0
+未作成テキスト,91,-1,-1,-1,-1,0
+未作成テキスト,92,-1,-1,-1,-1,0
+未作成テキスト,93,-1,-1,-1,-1,0
+未作成テキスト,94,-1,-1,-1,-1,0
+未作成テキスト,95,-1,-1,-1,-1,0
+未作成テキスト,96,-1,-1,-1,-1,0
+未作成テキスト,97,-1,-1,-1,-1,0
+未作成テキスト,98,-1,-1,-1,-1,0
+未作成テキスト,99,-1,-1,-1,-1,0
+未作成テキスト,100,-1,-1,-1,-1,0
+未作成テキスト,101,-1,-1,-1,-1,0
+未作成テキスト,102,-1,-1,-1,-1,0
+未作成テキスト,103,-1,-1,-1,-1,0
+未作成テキスト,104,-1,-1,-1,-1,0
+未作成テキスト,105,-1,-1,-1,-1,0
+未作成テキスト,106,-1,-1,-1,-1,0
+未作成テキスト,107,-1,-1,-1,-1,0
+未作成テキスト,108,-1,-1,-1,-1,0
+未作成テキスト,109,-1,-1,-1,-1,0
+未作成テキスト,110,-1,-1,-1,-1,0
+未作成テキスト,111,-1,-1,-1,-1,0
+未作成テキスト,112,-1,-1,-1,-1,0
+未作成テキスト,113,-1,-1,-1,-1,0
+未作成テキスト,114,-1,-1,-1,-1,0
+未作成テキスト,115,-1,-1,-1,-1,0
+未作成テキスト,116,-1,-1,-1,-1,0
+未作成テキスト,117,-1,-1,-1,-1,0
+未作成テキスト,118,-1,-1,-1,-1,0
+未作成テキスト,119,-1,-1,-1,-1,0
+未作成テキスト,120,-1,-1,-1,-1,0
+未作成テキスト,121,-1,-1,-1,-1,0
+未作成テキスト,122,-1,-1,-1,-1,0
+未作成テキスト,123,-1,-1,-1,-1,0
+未作成テキスト,124,-1,-1,-1,-1,0
+未作成テキスト,125,-1,-1,-1,-1,0
+未作成テキスト,126,-1,-1,-1,-1,0
+未作成テキスト,127,-1,-1,-1,-1,0
+未作成テキスト,128,-1,-1,-1,-1,0
+未作成テキスト,129,-1,-1,-1,-1,0
+未作成テキスト,130,-1,-1,-1,-1,0
+未作成テキスト,131,-1,-1,-1,-1,0
+未作成テキスト,132,-1,-1,-1,-1,0
+未作成テキスト,133,-1,-1,-1,-1,0
+未作成テキスト,134,-1,-1,-1,-1,0
+未作成テキスト,135,-1,-1,-1,-1,0
+未作成テキスト,136,-1,-1,-1,-1,0
+未作成テキスト,137,-1,-1,-1,-1,0
+未作成テキスト,138,-1,-1,-1,-1,0
+未作成テキスト,139,-1,-1,-1,-1,0
+未作成テキスト,140,-1,-1,-1,-1,0
+未作成テキスト,141,-1,-1,-1,-1,0
+未作成テキスト,142,-1,-1,-1,-1,0
+未作成テキスト,143,-1,-1,-1,-1,0
+未作成テキスト,144,-1,-1,-1,-1,0
+未作成テキスト,145,-1,-1,-1,-1,0
+未作成テキスト,146,-1,-1,-1,-1,0
+未作成テキスト,147,-1,-1,-1,-1,0
+未作成テキスト,148,-1,-1,-1,-1,0
+未作成テキスト,149,-1,-1,-1,-1,0
+未作成テキスト,150,-1,-1,-1,-1,0
+未作成テキスト,151,-1,-1,-1,-1,0
+未作成テキスト,152,-1,-1,-1,-1,0
+未作成テキスト,153,-1,-1,-1,-1,0
+未作成テキスト,154,-1,-1,-1,-1,0
+未作成テキスト,155,-1,-1,-1,-1,0
+未作成テキスト,156,-1,-1,-1,-1,0
+未作成テキスト,157,-1,-1,-1,-1,0
+未作成テキスト,158,-1,-1,-1,-1,0
+未作成テキスト,159,-1,-1,-1,-1,0
+未作成テキスト,160,-1,-1,-1,-1,0
+未作成テキスト,161,-1,-1,-1,-1,0
+未作成テキスト,162,-1,-1,-1,-1,0
+未作成テキスト,163,-1,-1,-1,-1,0
+未作成テキスト,164,-1,-1,-1,-1,0
+未作成テキスト,165,-1,-1,-1,-1,0
+未作成テキスト,166,-1,-1,-1,-1,0
+未作成テキスト,167,-1,-1,-1,-1,0
+未作成テキスト,168,-1,-1,-1,-1,0
+未作成テキスト,169,-1,-1,-1,-1,0
+未作成テキスト,170,-1,-1,-1,-1,0
+未作成テキスト,171,-1,-1,-1,-1,0
+未作成テキスト,172,-1,-1,-1,-1,0
+未作成テキスト,173,-1,-1,-1,-1,0
+未作成テキスト,174,-1,-1,-1,-1,0
+未作成テキスト,175,-1,-1,-1,-1,0
+未作成テキスト,176,-1,-1,-1,-1,0
+未作成テキスト,177,-1,-1,-1,-1,0
+未作成テキスト,178,-1,-1,-1,-1,0
+未作成テキスト,179,-1,-1,-1,-1,0
+未作成テキスト,180,-1,-1,-1,-1,0
+未作成テキスト,181,-1,-1,-1,-1,0
+未作成テキスト,182,-1,-1,-1,-1,0
+未作成テキスト,183,-1,-1,-1,-1,0
+未作成テキスト,184,-1,-1,-1,-1,0
+未作成テキスト,185,-1,-1,-1,-1,0
+未作成テキスト,186,-1,-1,-1,-1,0
+未作成テキスト,187,-1,-1,-1,-1,0
+未作成テキスト,188,-1,-1,-1,-1,0
+未作成テキスト,189,-1,-1,-1,-1,0
+未作成テキスト,190,-1,-1,-1,-1,0
+未作成テキスト,191,-1,-1,-1,-1,0
+未作成テキスト,192,-1,-1,-1,-1,0
+未作成テキスト,193,-1,-1,-1,-1,0
+未作成テキスト,194,-1,-1,-1,-1,0
+未作成テキスト,195,-1,-1,-1,-1,0
+未作成テキスト,196,-1,-1,-1,-1,0
+未作成テキスト,197,-1,-1,-1,-1,0
+未作成テキスト,198,-1,-1,-1,-1,0
+未作成テキスト,199,-1,-1,-1,-1,0
+未作成テキスト,200,-1,-1,-1,-1,0
+未作成テキスト,201,-1,-1,-1,-1,0
+未作成テキスト,202,-1,-1,-1,-1,0
+未作成テキスト,203,-1,-1,-1,-1,0
+未作成テキスト,204,-1,-1,-1,-1,0
+未作成テキスト,205,-1,-1,-1,-1,0
+未作成テキスト,206,-1,-1,-1,-1,0
+未作成テキスト,207,-1,-1,-1,-1,0
+未作成テキスト,208,-1,-1,-1,-1,0
+未作成テキスト,209,-1,-1,-1,-1,0
+未作成テキスト,210,-1,-1,-1,-1,0
+未作成テキスト,211,-1,-1,-1,-1,0
+未作成テキスト,212,-1,-1,-1,-1,0
+未作成テキスト,213,-1,-1,-1,-1,0
+未作成テキスト,214,-1,-1,-1,-1,0
+未作成テキスト,215,-1,-1,-1,-1,0
+未作成テキスト,216,-1,-1,-1,-1,0
+未作成テキスト,217,-1,-1,-1,-1,0
+未作成テキスト,218,-1,-1,-1,-1,0
+未作成テキスト,219,-1,-1,-1,-1,0
+未作成テキスト,220,-1,-1,-1,-1,0
+未作成テキスト,221,-1,-1,-1,-1,0
+未作成テキスト,222,-1,-1,-1,-1,0
+未作成テキスト,223,-1,-1,-1,-1,0
+未作成テキスト,224,-1,-1,-1,-1,0
+未作成テキスト,225,-1,-1,-1,-1,0
+未作成テキスト,226,-1,-1,-1,-1,0
+未作成テキスト,227,-1,-1,-1,-1,0
+未作成テキスト,228,-1,-1,-1,-1,0
+未作成テキスト,229,-1,-1,-1,-1,0
+未作成テキスト,230,-1,-1,-1,-1,0
+未作成テキスト,231,-1,-1,-1,-1,0
+未作成テキスト,232,-1,-1,-1,-1,0
+未作成テキスト,233,-1,-1,-1,-1,0
+未作成テキスト,234,-1,-1,-1,-1,0
+未作成テキスト,235,-1,-1,-1,-1,0
+未作成テキスト,236,-1,-1,-1,-1,0
+未作成テキスト,237,-1,-1,-1,-1,0
+未作成テキスト,238,-1,-1,-1,-1,0
+未作成テキスト,239,-1,-1,-1,-1,0
+未作成テキスト,240,-1,-1,-1,-1,0
+未作成テキスト,241,-1,-1,-1,-1,0
+未作成テキスト,242,-1,-1,-1,-1,0
+未作成テキスト,243,-1,-1,-1,-1,0
+未作成テキスト,244,-1,-1,-1,-1,0
+未作成テキスト,245,-1,-1,-1,-1,0
+未作成テキスト,246,-1,-1,-1,-1,0
+未作成テキスト,247,-1,-1,-1,-1,0
+未作成テキスト,248,-1,-1,-1,-1,0
+未作成テキスト,249,-1,-1,-1,-1,0
+未作成テキスト,250,-1,-1,-1,-1,0
+未作成テキスト,251,-1,-1,-1,-1,0
+未作成テキスト,252,-1,-1,-1,-1,0
+未作成テキスト,253,-1,-1,-1,-1,0
+未作成テキスト,254,-1,-1,-1,-1,0
+未作成テキスト,255,-1,-1,-1,-1,0
+未作成テキスト,256,-1,-1,-1,-1,0
+未作成テキスト,257,-1,-1,-1,-1,0
+未作成テキスト,258,-1,-1,-1,-1,0
+未作成テキスト,259,-1,-1,-1,-1,0
+未作成テキスト,260,-1,-1,-1,-1,0
+未作成テキスト,261,-1,-1,-1,-1,0
+未作成テキスト,262,-1,-1,-1,-1,0
+未作成テキスト,263,-1,-1,-1,-1,0
+未作成テキスト,264,-1,-1,-1,-1,0
+未作成テキスト,265,-1,-1,-1,-1,0
+未作成テキスト,266,-1,-1,-1,-1,0
+未作成テキスト,267,-1,-1,-1,-1,0
+未作成テキスト,268,-1,-1,-1,-1,0
+未作成テキスト,269,-1,-1,-1,-1,0
+未作成テキスト,270,-1,-1,-1,-1,0
+未作成テキスト,271,-1,-1,-1,-1,0
+未作成テキスト,272,-1,-1,-1,-1,0
+未作成テキスト,273,-1,-1,-1,-1,0
+未作成テキスト,274,-1,-1,-1,-1,0
+未作成テキスト,275,-1,-1,-1,-1,0
+未作成テキスト,276,-1,-1,-1,-1,0
+未作成テキスト,277,-1,-1,-1,-1,0
+未作成テキスト,278,-1,-1,-1,-1,0
+未作成テキスト,279,-1,-1,-1,-1,0
+未作成テキスト,280,-1,-1,-1,-1,0
+未作成テキスト,281,-1,-1,-1,-1,0
+未作成テキスト,282,-1,-1,-1,-1,0
+未作成テキスト,283,-1,-1,-1,-1,0
+未作成テキスト,284,-1,-1,-1,-1,0
+未作成テキスト,285,-1,-1,-1,-1,0
+未作成テキスト,286,-1,-1,-1,-1,0
+未作成テキスト,287,-1,-1,-1,-1,0
+未作成テキスト,288,-1,-1,-1,-1,0
+未作成テキスト,289,-1,-1,-1,-1,0
+未作成テキスト,290,-1,-1,-1,-1,0
+未作成テキスト,291,-1,-1,-1,-1,0
+未作成テキスト,292,-1,-1,-1,-1,0
+未作成テキスト,293,-1,-1,-1,-1,0
+未作成テキスト,294,-1,-1,-1,-1,0
+未作成テキスト,295,-1,-1,-1,-1,0
+未作成テキスト,296,-1,-1,-1,-1,0
+未作成テキスト,297,-1,-1,-1,-1,0
+未作成テキスト,298,-1,-1,-1,-1,0
+未作成テキスト,299,-1,-1,-1,-1,0

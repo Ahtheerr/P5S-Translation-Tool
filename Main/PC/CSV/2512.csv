@@ -1,0 +1,366 @@
+...I'm really glad Akane-chan is okay.,0,17,1,-1,6991,0
+"I'm with you there. This time was a little too
+close.",1,2,0,-1,6992,0
+But why did Akane-chan become a Monarch?,2,84,0,-1,6993,0
+"It sounded like Akane-chan kinda had her own
+agenda... Is that what makes you a Monarch,
+though?",3,15,3,-1,6994,0
+"Well, one thing's for certain, Akane was made
+into a Monarch to capture us.",4,2,2,-1,6995,0
+"If I had to guess, Konoe's the one who set this up.",5,2,2,-1,6996,0
+"Although I'm not sure if he was acting on
+Owada's orders or just on his own...",6,2,2,-1,6997,0
+"Do you think Konoe made Alice and Natsume
+into Monarchs too?",7,15,3,-1,6998,0
+"Yeah, I wouldn't be surprised... But it probably
+wasn't for the same reason he made Akane into
+one. That part remains a mystery.",8,2,2,-1,6999,0
+"Playing with other people's hearts like that... He
+won't get away with this.",9,17,2,-1,7000,0
+"Yeah. Just you wait, you goat-chinned mother—",10,13,2,-1,7001,0
+"Is it gone...? Looks like they haven't found this
+place just yet.",11,2,3,-1,7002,0
+We're stuck here unless we do something...,12,84,3,-1,7003,0
+"[1B]S1, incoming phone call from a
+""Sae Niijima.""",13,20,0,-1,7004,0
+What? From Sis!?,14,17,4,-1,7005,0
+"Hello, [1B]S0-kun?",15,86,0,361,7006,0
+"It's been some time. Do you remember me?
+It's Sae Niijima.",16,86,0,361,7007,1
+As if I'd ever forget you?,17,12,-1,-1,-1,0
+Thank you for saving us.,18,12,-1,-1,-1,0
+"You've been well, I take it?",19,12,-1,-1,-1,0
+*chuckle* Thanks.,20,86,1,361,7008,0
+Glad to see I was of some help.,21,86,1,361,7009,0
+"Yes, as well as I can be at the moment.",22,86,1,361,7010,0
+"*sigh* Sounds like you've stuck your nose
+into something big again.",23,86,3,361,7011,0
+"Is everyone else with you? Could you put me on
+speaker?",24,86,0,361,7012,0
+It's good to hear you're all okay.,25,86,0,361,7013,0
+"Sis... Thank you. I knew you'd come through for
+us.",26,17,1,-1,7014,0
+"You owe me big for this one. My help doesn't
+come cheap, you know?",27,86,1,361,7015,0
+"For real, you really saved our asses. We woulda
+been totally boned if you hadn't got Gramps out.",28,13,1,-1,7016,0
+"Gorgeous and professional! That's a recipe for a
+femme fatale super lawyer, if I've ever seen one.",29,85,1,-1,7017,0
+"Flattery won't get you anywhere, just so you're
+aware. Plus, I can't take all the credit.",30,86,0,361,7018,0
+"Anyway, I have some good news.",31,86,0,361,7019,0
+"The arrest warrant for the Phantom Thieves has
+been voided. That should keep the police off
+your backs for the time being.",32,86,0,361,7020,0
+Wha... How'd that happen?,33,17,4,-1,7021,0
+"The arrest warrant didn't have a judge's seal.
+What's more, the evidence submitted was fake.",34,86,0,361,7022,0
+"It seems like someone wanted you all arrested,
+and they didn't care what for, so long as it was
+done.",35,86,0,361,7023,0
+"Not only that, but it turns out the Public Security
+Bureau had a hand in Inspector Hasegawa's
+unlawful investigation.",36,86,2,361,7024,0
+"The prefectural police are scrambling to cover
+this up right now. They can't afford to be out
+looking for you.",37,86,2,361,7025,0
+"I'll contact you if anything happens. In the
+meantime, just focus on getting out of your
+current predicament, okay?",38,86,0,361,7026,1
+Thank you.,39,12,-1,-1,-1,0
+We'll thank you properly later.,40,12,-1,-1,-1,0
+"Don't overdo it, okay?",41,12,-1,-1,-1,0
+You can thank me once this case is closed.,42,86,1,361,7027,0
+"Just make it back in one piece. No better way to
+say thanks.",43,86,1,361,7028,0
+"That's my line. Look after Makoto for me, won't
+you?",44,86,1,361,7029,0
+Sis... Thank you so much.,45,17,1,-1,7030,0
+"...Stay safe, Makoto.",46,86,1,361,7031,0
+"All right, I have business to take care of. I'm
+looking forward to hearing from you again.",47,86,0,361,7032,0
+"How encouraging. To know there are others out
+there who support us...",48,16,1,-1,7033,0
+"Mmhm, we'll need to do all we can to succeed, for their sakes too.",49,84,1,-1,7034,0
+"Now we just gotta come up with a plan... What
+should we do?",50,13,0,-1,7035,0
+"If Konoe is responsible for changing everyone's
+hearts, then it's likely this case will be resolved
+once we change his heart.",51,16,0,-1,7036,0
+"Yeah, and we'll clear our names, too!",52,85,0,-1,7037,0
+Right. We won't be suspects in the director's murder anymore either.,53,17,0,-1,7038,0
+But... we still don't have the keyword for Konoe's Jail.,54,84,0,-1,7039,0
+He seems to be more aware of our activities than we expected. I doubt we'll be able to carry out Zenkichi's plan at this point.,55,16,0,-1,7040,0
+"And that's not all. If he knows about us, then he
+probably knows to keep his keyword safe as well.",56,17,2,-1,7041,0
+"It's safe to assume he won't just carelessly let it
+slip out, not while his heart's liable to be
+changed...",57,17,2,-1,7042,0
+Up shit creek without a paddle... Now what?,58,13,0,-1,7043,0
+......,59,20,0,-1,7044,0
+"We just need someone who can get Konoe's 
+keyword without raising suspicion, is that right?",60,20,0,-1,7045,0
+Do you know of such a person?,61,16,4,-1,7046,0
+What about Kuon Ichinose?,62,20,0,-1,7047,0
+"Of course. Ichinose-san's the one who
+developed EMMA, and she's had contact with
+Konoe, thanks to the lecture at the university...",63,17,4,-1,7048,0
+"Ichinose-san might be able to get Konoe's
+keyword without seeming out of place.",64,84,1,-1,7049,0
+"This just might work. Good job, Sophia!",65,2,0,-1,7050,0
+"A piece of cake, as they say.",66,20,1,-1,7051,0
+"See if you can call her up right now,
+[1B]S1!",67,85,0,-1,7052,0
+Hellooo!,68,106,1,-1,7053,0
+"Ah, hello there, [1B]S1-kun! You
+seem to be doing okay. That's great to hear.
+Truly brightens my day!",69,106,1,-1,7054,1
+Why're you so excited?,70,12,-1,-1,-1,0
+We could use your help.,71,12,-1,-1,-1,0
+We're in a bit of a pinch.,72,12,-1,-1,-1,0
+"Not every day I get a call from you. And I'm sure
+you have something interesting for me, so I can't
+help but be excited!",73,106,1,-1,7055,0
+"So, did something happen? Or, wait, lemme back
+up a bit. How did things go in Okinawa?",74,106,0,-1,7056,0
+"Hm? Did something happen? Or, wait, lemme
+back up a bit. How did things go in Okinawa?",75,106,4,-1,7057,0
+"Oh, right... We never told Ichinose-san
+about Okinawa.",76,15,4,-1,7058,0
+"That's true. We should fill her in on what's been
+going on.",77,17,0,-1,7059,0
+"Ah, it sounds like you're all together. Okay, let's
+hear it!",78,106,0,-1,7060,0
+"I see, I see... It seems you're caught up in
+another crazy adventure, as usual!",79,106,1,-1,7061,0
+Ahahahaha!,80,106,1,-1,7062,0
+"Hey, this ain't nothin' to laugh about.",81,13,3,-1,7063,0
+"Oops, I guess that wasn't right of me...",82,106,4,-1,7064,0
+I think I understand what's going on.,83,106,0,-1,7065,0
+"So you're after Konoe-san's keyword, right?",84,106,0,-1,7066,0
+"Right, do you think you can get it out of him?",85,17,0,-1,7067,0
+"Well, asking him for it might be kind of weird...",86,106,0,-1,7068,0
+"I mean, I already got it from him a while ago.",87,106,0,-1,7069,0
+Say what!?,88,13,4,-1,7070,0
+B-But how!?,89,85,4,-1,7071,0
+"Well, the day you guys came to that lecture,
+there was a little social gathering afterward for
+some of the bigger names involved...",90,106,0,-1,7072,0
+"It was there I ran into Konoe-san and he gave me
+his business card. The keyword was right there
+on the front.",91,106,0,-1,7073,0
+"Huh? Now, where'd I put it? I'm pretty sure I had
+it right here...",92,106,0,-1,7074,0
+"P-Please, you gotta find it! This is top-priority!",93,85,2,-1,7075,0
+"O-Oh? Right, okay...",94,106,4,-1,7076,0
+I think it was around here somewhere...,95,106,0,-1,7077,0
+Wah!?,96,106,21,-1,7078,0
+"I-I'll make sure I find it by tomorrow! Have a
+nice day!!!",97,106,4,-1,7079,0
+"Uhhh—eccentric as ever, isn't she...?",98,15,3,-1,7080,0
+"And it's gonna take till tomorrow? How messy
+do you think her room is?",99,15,3,-1,7081,0
+"A small price to pay, but if this gets us his
+keyword...",100,16,0,-1,7082,0
+"Mmhm, we'll be able to enter Konoe's Jail!",101,84,1,-1,7083,0
+"Can we really count on her, though?",102,13,3,-1,7084,0
+"I'm not so sure, but we don't have any other
+options right now.",103,17,3,-1,7085,0
+"Yeah. Let's just make sure we're prepared for
+when we finally infiltrate the Jail.",104,2,2,-1,7086,0
+"Tomorrow, we'll link up with Zenkichi and head
+to Osaka!",105,2,2,-1,7087,0
+未作成テキスト,106,-1,-1,-1,-1,0
+未作成テキスト,107,-1,-1,-1,-1,0
+未作成テキスト,108,-1,-1,-1,-1,0
+未作成テキスト,109,-1,-1,-1,-1,0
+未作成テキスト,110,-1,-1,-1,-1,0
+未作成テキスト,111,-1,-1,-1,-1,0
+未作成テキスト,112,-1,-1,-1,-1,0
+未作成テキスト,113,-1,-1,-1,-1,0
+未作成テキスト,114,-1,-1,-1,-1,0
+未作成テキスト,115,-1,-1,-1,-1,0
+未作成テキスト,116,-1,-1,-1,-1,0
+未作成テキスト,117,-1,-1,-1,-1,0
+未作成テキスト,118,-1,-1,-1,-1,0
+未作成テキスト,119,-1,-1,-1,-1,0
+未作成テキスト,120,-1,-1,-1,-1,0
+未作成テキスト,121,-1,-1,-1,-1,0
+未作成テキスト,122,-1,-1,-1,-1,0
+未作成テキスト,123,-1,-1,-1,-1,0
+未作成テキスト,124,-1,-1,-1,-1,0
+未作成テキスト,125,-1,-1,-1,-1,0
+未作成テキスト,126,-1,-1,-1,-1,0
+未作成テキスト,127,-1,-1,-1,-1,0
+未作成テキスト,128,-1,-1,-1,-1,0
+未作成テキスト,129,-1,-1,-1,-1,0
+未作成テキスト,130,-1,-1,-1,-1,0
+未作成テキスト,131,-1,-1,-1,-1,0
+未作成テキスト,132,-1,-1,-1,-1,0
+未作成テキスト,133,-1,-1,-1,-1,0
+未作成テキスト,134,-1,-1,-1,-1,0
+未作成テキスト,135,-1,-1,-1,-1,0
+未作成テキスト,136,-1,-1,-1,-1,0
+未作成テキスト,137,-1,-1,-1,-1,0
+未作成テキスト,138,-1,-1,-1,-1,0
+未作成テキスト,139,-1,-1,-1,-1,0
+未作成テキスト,140,-1,-1,-1,-1,0
+未作成テキスト,141,-1,-1,-1,-1,0
+未作成テキスト,142,-1,-1,-1,-1,0
+未作成テキスト,143,-1,-1,-1,-1,0
+未作成テキスト,144,-1,-1,-1,-1,0
+未作成テキスト,145,-1,-1,-1,-1,0
+未作成テキスト,146,-1,-1,-1,-1,0
+未作成テキスト,147,-1,-1,-1,-1,0
+未作成テキスト,148,-1,-1,-1,-1,0
+未作成テキスト,149,-1,-1,-1,-1,0
+未作成テキスト,150,-1,-1,-1,-1,0
+未作成テキスト,151,-1,-1,-1,-1,0
+未作成テキスト,152,-1,-1,-1,-1,0
+未作成テキスト,153,-1,-1,-1,-1,0
+未作成テキスト,154,-1,-1,-1,-1,0
+未作成テキスト,155,-1,-1,-1,-1,0
+未作成テキスト,156,-1,-1,-1,-1,0
+未作成テキスト,157,-1,-1,-1,-1,0
+未作成テキスト,158,-1,-1,-1,-1,0
+未作成テキスト,159,-1,-1,-1,-1,0
+未作成テキスト,160,-1,-1,-1,-1,0
+未作成テキスト,161,-1,-1,-1,-1,0
+未作成テキスト,162,-1,-1,-1,-1,0
+未作成テキスト,163,-1,-1,-1,-1,0
+未作成テキスト,164,-1,-1,-1,-1,0
+未作成テキスト,165,-1,-1,-1,-1,0
+未作成テキスト,166,-1,-1,-1,-1,0
+未作成テキスト,167,-1,-1,-1,-1,0
+未作成テキスト,168,-1,-1,-1,-1,0
+未作成テキスト,169,-1,-1,-1,-1,0
+未作成テキスト,170,-1,-1,-1,-1,0
+未作成テキスト,171,-1,-1,-1,-1,0
+未作成テキスト,172,-1,-1,-1,-1,0
+未作成テキスト,173,-1,-1,-1,-1,0
+未作成テキスト,174,-1,-1,-1,-1,0
+未作成テキスト,175,-1,-1,-1,-1,0
+未作成テキスト,176,-1,-1,-1,-1,0
+未作成テキスト,177,-1,-1,-1,-1,0
+未作成テキスト,178,-1,-1,-1,-1,0
+未作成テキスト,179,-1,-1,-1,-1,0
+未作成テキスト,180,-1,-1,-1,-1,0
+未作成テキスト,181,-1,-1,-1,-1,0
+未作成テキスト,182,-1,-1,-1,-1,0
+未作成テキスト,183,-1,-1,-1,-1,0
+未作成テキスト,184,-1,-1,-1,-1,0
+未作成テキスト,185,-1,-1,-1,-1,0
+未作成テキスト,186,-1,-1,-1,-1,0
+未作成テキスト,187,-1,-1,-1,-1,0
+未作成テキスト,188,-1,-1,-1,-1,0
+未作成テキスト,189,-1,-1,-1,-1,0
+未作成テキスト,190,-1,-1,-1,-1,0
+未作成テキスト,191,-1,-1,-1,-1,0
+未作成テキスト,192,-1,-1,-1,-1,0
+未作成テキスト,193,-1,-1,-1,-1,0
+未作成テキスト,194,-1,-1,-1,-1,0
+未作成テキスト,195,-1,-1,-1,-1,0
+未作成テキスト,196,-1,-1,-1,-1,0
+未作成テキスト,197,-1,-1,-1,-1,0
+未作成テキスト,198,-1,-1,-1,-1,0
+未作成テキスト,199,-1,-1,-1,-1,0
+未作成テキスト,200,-1,-1,-1,-1,0
+未作成テキスト,201,-1,-1,-1,-1,0
+未作成テキスト,202,-1,-1,-1,-1,0
+未作成テキスト,203,-1,-1,-1,-1,0
+未作成テキスト,204,-1,-1,-1,-1,0
+未作成テキスト,205,-1,-1,-1,-1,0
+未作成テキスト,206,-1,-1,-1,-1,0
+未作成テキスト,207,-1,-1,-1,-1,0
+未作成テキスト,208,-1,-1,-1,-1,0
+未作成テキスト,209,-1,-1,-1,-1,0
+未作成テキスト,210,-1,-1,-1,-1,0
+未作成テキスト,211,-1,-1,-1,-1,0
+未作成テキスト,212,-1,-1,-1,-1,0
+未作成テキスト,213,-1,-1,-1,-1,0
+未作成テキスト,214,-1,-1,-1,-1,0
+未作成テキスト,215,-1,-1,-1,-1,0
+未作成テキスト,216,-1,-1,-1,-1,0
+未作成テキスト,217,-1,-1,-1,-1,0
+未作成テキスト,218,-1,-1,-1,-1,0
+未作成テキスト,219,-1,-1,-1,-1,0
+未作成テキスト,220,-1,-1,-1,-1,0
+未作成テキスト,221,-1,-1,-1,-1,0
+未作成テキスト,222,-1,-1,-1,-1,0
+未作成テキスト,223,-1,-1,-1,-1,0
+未作成テキスト,224,-1,-1,-1,-1,0
+未作成テキスト,225,-1,-1,-1,-1,0
+未作成テキスト,226,-1,-1,-1,-1,0
+未作成テキスト,227,-1,-1,-1,-1,0
+未作成テキスト,228,-1,-1,-1,-1,0
+未作成テキスト,229,-1,-1,-1,-1,0
+未作成テキスト,230,-1,-1,-1,-1,0
+未作成テキスト,231,-1,-1,-1,-1,0
+未作成テキスト,232,-1,-1,-1,-1,0
+未作成テキスト,233,-1,-1,-1,-1,0
+未作成テキスト,234,-1,-1,-1,-1,0
+未作成テキスト,235,-1,-1,-1,-1,0
+未作成テキスト,236,-1,-1,-1,-1,0
+未作成テキスト,237,-1,-1,-1,-1,0
+未作成テキスト,238,-1,-1,-1,-1,0
+未作成テキスト,239,-1,-1,-1,-1,0
+未作成テキスト,240,-1,-1,-1,-1,0
+未作成テキスト,241,-1,-1,-1,-1,0
+未作成テキスト,242,-1,-1,-1,-1,0
+未作成テキスト,243,-1,-1,-1,-1,0
+未作成テキスト,244,-1,-1,-1,-1,0
+未作成テキスト,245,-1,-1,-1,-1,0
+未作成テキスト,246,-1,-1,-1,-1,0
+未作成テキスト,247,-1,-1,-1,-1,0
+未作成テキスト,248,-1,-1,-1,-1,0
+未作成テキスト,249,-1,-1,-1,-1,0
+未作成テキスト,250,-1,-1,-1,-1,0
+未作成テキスト,251,-1,-1,-1,-1,0
+未作成テキスト,252,-1,-1,-1,-1,0
+未作成テキスト,253,-1,-1,-1,-1,0
+未作成テキスト,254,-1,-1,-1,-1,0
+未作成テキスト,255,-1,-1,-1,-1,0
+未作成テキスト,256,-1,-1,-1,-1,0
+未作成テキスト,257,-1,-1,-1,-1,0
+未作成テキスト,258,-1,-1,-1,-1,0
+未作成テキスト,259,-1,-1,-1,-1,0
+未作成テキスト,260,-1,-1,-1,-1,0
+未作成テキスト,261,-1,-1,-1,-1,0
+未作成テキスト,262,-1,-1,-1,-1,0
+未作成テキスト,263,-1,-1,-1,-1,0
+未作成テキスト,264,-1,-1,-1,-1,0
+未作成テキスト,265,-1,-1,-1,-1,0
+未作成テキスト,266,-1,-1,-1,-1,0
+未作成テキスト,267,-1,-1,-1,-1,0
+未作成テキスト,268,-1,-1,-1,-1,0
+未作成テキスト,269,-1,-1,-1,-1,0
+未作成テキスト,270,-1,-1,-1,-1,0
+未作成テキスト,271,-1,-1,-1,-1,0
+未作成テキスト,272,-1,-1,-1,-1,0
+未作成テキスト,273,-1,-1,-1,-1,0
+未作成テキスト,274,-1,-1,-1,-1,0
+未作成テキスト,275,-1,-1,-1,-1,0
+未作成テキスト,276,-1,-1,-1,-1,0
+未作成テキスト,277,-1,-1,-1,-1,0
+未作成テキスト,278,-1,-1,-1,-1,0
+未作成テキスト,279,-1,-1,-1,-1,0
+未作成テキスト,280,-1,-1,-1,-1,0
+未作成テキスト,281,-1,-1,-1,-1,0
+未作成テキスト,282,-1,-1,-1,-1,0
+未作成テキスト,283,-1,-1,-1,-1,0
+未作成テキスト,284,-1,-1,-1,-1,0
+未作成テキスト,285,-1,-1,-1,-1,0
+未作成テキスト,286,-1,-1,-1,-1,0
+未作成テキスト,287,-1,-1,-1,-1,0
+未作成テキスト,288,-1,-1,-1,-1,0
+未作成テキスト,289,-1,-1,-1,-1,0
+未作成テキスト,290,-1,-1,-1,-1,0
+未作成テキスト,291,-1,-1,-1,-1,0
+未作成テキスト,292,-1,-1,-1,-1,0
+未作成テキスト,293,-1,-1,-1,-1,0
+未作成テキスト,294,-1,-1,-1,-1,0
+未作成テキスト,295,-1,-1,-1,-1,0
+未作成テキスト,296,-1,-1,-1,-1,0
+未作成テキスト,297,-1,-1,-1,-1,0
+未作成テキスト,298,-1,-1,-1,-1,0
+未作成テキスト,299,-1,-1,-1,-1,0

@@ -1,0 +1,408 @@
+"[1B]C2[1B]P2: Basic Attack[1B]R
+Standard attacks that can be chained consecutively. Can also be performed midair.",0,23,0,-1
+"[1B]C2[1B]P3: Special Attack[1B]R
+Character specific actions. Effects vary from simple attacks to ability-enhancing buffs.",1,23,1,-1
+"[1B]C2[1B]P3: Special Attack from [1B]P2[1B]R
+Strong attacks chained from standard attacks. Different moves are performed depending on the number of times [1B]P2 is pressed.",2,23,2,-1
+"[1B]C2[1B]P3+[1B]P0: Showtime[1B]R
+When the Showtime gauge is full, unleash a powerful attack by pressing [1B]P3 and [1B]P0 at the same time.",3,5,3,-1
+"To progress the story, head towards [1B]C2the area with the [1B]M1~18~ icon[1B]R. By approaching or interacting with the [1B]M1~18~, the story will advance.",4,87,4,-1
+"[1B]C2[1B]P3: Save[1B]R
+You can save your current progress when [1B]C2[1B]P3Save[1B]R
+is displayed at the lower-right corner of the screen.",5,65,5,-1
+"[1B]C2[1B]PK while holding [1B]P4: Persona Skills[1B]R
+Hold [1B]P4 and move [1B]PH to aim at enemies, then use skills with [1B]PK. Activating skills will consume HP or SP.",6,3,-1,-1
+"Persona skills have certain [1B]C2affinities[1B]R, while enemies may have [1B]C2weaknesses[1B]R to specific affinities. By using attacks that an enemy is weak against, you will deal greater damage and deplete the enemy's [1B]C2down gauge[1B]R.",7,153,6,-1
+Some skills are activated by consuming HP. HP lost through skill use [1B]C2will gradually replenish over time if you do not take damage[1B]R.,8,143,148,-1
+[1B]Z,9,-1,-1,-1
+"There are some Persona skills that are intended to be used on party members, such as [1B]C2HP recovery[1B]R, [1B]C2buffs[1B]R, and [1B]C2status ailment removal[1B]R skills.",10,147,-1,-1
+"Activate these skills with [1B]P4 then [1B]PK, [1B]C2select a
+party member[1B]R with the directional buttons, then
+press [1B]PK again to use the skill.",11,147,7,-1
+"[1B]C2[1B]P0 on downed enemies: All-Out Attacks[1B]R
+While an enemy is [1B]C2knocked down[1B]R, press [1B]P0 to initiate an [1B]C2All-Out Attack[1B]R with your teammates.",12,4,8,-1
+"Since they can deal damage to several enemies at once, it is a good idea to use All-Out Attacks on large groups of enemies.",13,4,156,-1
+"[1B]C2When an enemy's down gauge is fully depleted[1B]R, it will be knocked down. You can deplete an enemy's down gauge by [1B]C2striking its weaknesses[1B]R or by landing [1B]C2Critical[1B]R and [1B]C2Technical hits[1B]R.",14,4,9,-1
+"[1B]C2[1B]P0 during on-screen prompt: Phantom Dash[1B]R
+Press [1B]P0 to move swiftly. After a phantom dash, you will automatically [1B]C2go into hiding[1B]R.",15,0,154,-1
+"[1B]C2[1B]P3 while in hiding: Special Actions[1B]R
+Depending on the situation, pressing [1B]P3 [1B]C2while in hiding[1B]R will perform different actions, such as attacking or moving.",16,0,153,-1
+"[1B]C2[1B]PH while in hiding: Switch Targets[1B]R
+If you are [1B]C2in hiding[1B]R and there are more points to phantom dash to, you can [1B]C2switch between different target points[1B]R with [1B]PH.",17,0,155,-1
+"[1B]C2[1B]P5 while moving: Dash[1B]R
+While moving in the Metaverse, pressing [1B]P5 will allow you to [1B]C2dash[1B]R.",18,79,-1,-1
+"[1B]C2[1B]PI: Command Menu[1B]R
+This menu allows you to check the status of party  members and adjust equipment, among other things.",19,66,10,-1
+"[1B]C2The upper-right corner of the screen[1B]R displays your [1B]C2current objective[1B]R, as well as a [1B]C2hint[1B]R to help you complete that objective.",20,68,11,-1
+Press [1B]C2[1B]PI[1B]R to open the command menu. Consumable items can be used in the [1B]C2Item[1B]R submenu. This can also be done [1B]C2during battles[1B]R.,21,6,12,-1
+"[1B]C2[1B]P4 while holding [1B]P7: Fire Gun[1B]R
+While aiming your gun by holding [1B]P7, you can fire with [1B]P4. Each type of gun has its own [1B]C2ammo stock[1B]R. [1B]C2After a battle ends[1B]R, ammo will [1B]C2replenish[1B]R.",22,71,13,-1
+"There are [1B]C2several methods of aiming[1B]R which differ by character. Some will lock on to enemies, while others can aim manually.",23,146,14,-1
+"Certain characters can also [1B]C2change the way they aim[1B]R, or [1B]C2perform special gun attacks[1B]R. Master each character's unique abilities to give yourself an edge in battles.",24,146,15,-1
+"After battle, a [1B]C2Persona[1B]R may [1B]C2level up[1B]R. Their stats will increase, and they may potentially learn [1B]C2new skills[1B]R.",25,21,16,-1
+"Some skills [1B]C2activate automatically[1B]R, and [1B]C2do not need to be activated[1B]R by [1B]C2holding [1B]P4 and pressing [1B]PK[1B]R.",26,21,17,-1
+"Enemies can also use skills. When a [1B]C2skill name appears above an enemy[1B]R, it means they are preparing to use that skill. Use situational awareness to avoid enemy attacks and go on the offensive.",27,22,18,-1
+"When defeating Shadows that have shown their true forms, a mask may appear. By [1B]C2picking up the mask[1B]R, or by [1B]C2completing the battle[1B]R, you will [1B]C2obtain a new Persona[1B]R.",28,9,19,-1
+"[1B]C2[1B]PF while holding [1B]P4: Persona Change[1B]R
+Joker's infinite potential allows him to carry multiple Personas. He can switch these at will via [1B]C2Persona Change[1B]R.",29,44,-1,-1
+Switching Personas also [1B]C2switches the skills you can use[1B]R and [1B]C2changes some special attacks[1B]R that you can perform. Observe your enemy and choose the Persona that is most suited to your current battle.,30,44,157,-1
+"Joker's [1B]C2currently equipped Persona[1B]R will also affect his [1B]C2stats[1B]R and [1B]C2affinities[1B]R. When you become comfortable with switching Personas, keep a mental note of what Persona to have equipped.",31,44,158,-1
+"[1B]C2[1B]P0 during on-screen prompt: 1 More[1B]R
+Foes with larger down gauges won't be knocked down right away. Break a shield icon to create an opening, then press [1B]P0 during the prompt to [1B]C2attack again[1B]R.",32,2,20,-1
+"[1B]C2[1B]P6: Lock On[1B]R
+When you want to prioritize a specific enemy to attack, press [1B]P6 to [1B]C2lock on[1B]R.",33,80,21,-1
+Battles will go more smoothly if you focus on enemies with problematic skills or wide attack ranges first.,34,80,-1,-1
+"[1B]C2[1B]PB out of combat in the Metaverse: Auto-Recover[1B]R
+When your party members have lost HP, press [1B]PB to activate [1B]C2Auto-Recover[1B]R.",35,82,22,-1
+[1B]C2Auto-Recover[1B]R makes use of your party's healing skills to immediately [1B]C2restore HP[1B]R to [1B]C2all party members[1B]R. Be aware that the appropriate amount of SP will still be consumed.,36,82,-1,-1
+"You can check [1B]C2tutorials[1B]R you have seen before and other related information by opening the command menu, navigating to the [1B]C2System[1B]R submenu, then selecting [1B]C2Tutorial[1B]R.",37,69,23,-1
+"[1B]C2[1B]P0: Talking and Examining[1B]R
+Approach people and press [1B]P0 to speak to them or listen in on conversations to get information relating to the Monarch.",38,81,24,-1
+Intel can also be gathered from sources other than people. [1B]C2Local shops[1B]R may sometimes have valuable information on the Monarch as well.,39,81,25,-1
+Open the map with [1B]PJ and select a destination to quickly travel to various points in the city in the real world.,40,57,26,-1
+"The BOND feature has been unlocked. As the Phantom Thieves deepen their bonds, they will acquire various [1B]C2BOND skills[1B]R.",41,11,27,-1
+BOND skills can be purchased with BOND points by navigating to [1B]C2BOND[1B]R on the command menu. BOND points are acquired by [1B]C2raising your BOND level[1B]R.,42,11,28,-1
+"The BOND level increases through socializing events in the real world, or by fighting battles in the Metaverse.",43,11,29,-1
+"In the [1B]C2Velvet Room[1B]R, you can [1B]C2fuse[1B]R or [1B]C2strengthen[1B]R your Personas. Visit here and continue to create more powerful Personas.",44,18,-1,-1
+Fuse [1B]C2a number of the Personas[1B]R you currently have to create [1B]C2a new Persona[1B]R. The Personas used in the fusion will be lost.,45,10,30,-1
+"In order to fuse a given Persona, Joker's level must be greater than or equal to [1B]C2the new Persona's starting level[1B]R.",46,10,-1,-1
+"For tips on [1B]C2fusing strong Personas[1B]R, please check Fusion Tips in the [1B]C2Tutorial[1B]R submenu.",47,10,-1,-1
+"During Persona fusion, it is possible to [1B]C2pass on[1B]R a number of [1B]C2skills[1B]R to the new Persona. Be aware that depending on the Persona, some skills cannot be inherited.",48,30,31,-1
+"By spending [1B]C2Persona Points[1B]R, you can [1B]C2level up[1B]R your Persona. Be aware that Personas can only be leveled up as far as Joker's current level through this method.",49,76,32,-1
+"As you progress through the story, you will be able to strengthen your Personas in ways other than leveling them up.",50,76,33,-1
+"Persona Points are obtained through either [1B]C2picking up the mask of a Persona you are already carrying[1B]R, or through [1B]C2fusing or releasing Personas[1B]R.",51,135,107,-1
+"Personas that you have obtained will be recorded in the [1B]C2Inmate Registry[1B]R in the Velvet Room. By paying a fee, registered Personas can be summoned with the abilities they had at the time they were registered.",52,77,34,-1
+"If a Persona is already registered, [1B]C2registering it again[1B]R will overwrite the previous entry with the stats and abilities of the [1B]C2version you are currently carrying[1B]R.",53,77,35,-1
+"In [1B]C2Sophia's online shop[1B]R, you can buy and sell weapons, protectors, accessories, and items. The shop's inventory increases via story progression, or after certain events. Make sure you're well-stocked before entering a Jail.",54,19,36,-1
+There are also shops which sell [1B]C2goods that aren't found online[1B]R. Keep an eye out for good deals as you explore the city.,55,19,37,-1
+"At the hideout, you can [1B]C2infiltrate the Jail[1B]R, use [1B]C2Sophia's online shop[1B]R, and [1B]C2access the Velvet Room[1B]R. Other features will become available as you progress through the story.",56,58,-1,-1
+"In [1B]C2Change Party[1B]R, you can manage who will join Joker in the Jail. Select up to three teammates who will best fit your party's needs.",57,61,38,-1
+You can change your party by opening the command menu and selecting [1B]C2Stats[1B]R. This can be done [1B]C2at any time[1B]R as long as you are [1B]C2outside of combat[1B]R.,58,61,39,-1
+"At the entrance of the Jail, you can [1B]C2change your party[1B]R, [1B]C2access the Velvet Room[1B]R, and [1B]C2save your game[1B]R, among other things.",59,74,-1,-1
+"[1B]C2Baton Pass: Character switch[1B]R
+Perform a Baton Pass with the directional buttons. Passing the baton temporarily boosts the rate that the Showtime gauge increases.",60,8,40,-1
+"[1B]C2Directional button during prompt: Striker Swap[1B]R
+During battle, teammates may propose actions. Press the [1B]C2corresponding directional button[1B]R, and they will [1B]C2Baton Pass[1B]R and perform the action.",61,13,99,-1
+"[1B]C2[1B]P3 behind an enemy: Ambush[1B]R
+Approach an enemy from behind without being detected, then press [1B]P3 to perform an [1B]C2ambush[1B]R.",62,7,159,-1
+"Performing an [1B]C2ambush[1B]R will give you a [1B]C2preemptive strike[1B]R on the enemy, giving you an advantage at the start of the battle.",63,7,-1,-1
+"Performing an [1B]C2ambush[1B]R will trigger a [1B]C2preemptive strike[1B]R, giving you an advantage at the start of the battle.",64,24,41,-1
+"However, if you are [1B]C2spotted by an enemy[1B]R, you will be [1B]C2ambushed[1B]R instead, putting you at a disadvantage at the start of the battle.",65,24,42,-1
+"Among the enemies encountered in the Jail, there may be Shadows that are more powerful than normal enemies. These Shadows will have special names.",66,144,149,-1
+"Battling powerful Shadows grants higher experience and guarantees that a mask will drop, among other merits.",67,144,-1,-1
+"[1B]C2Hold [1B]P8: Third Eye[1B]R
+Hold [1B]P8 to use [1B]C2Third Eye[1B]R, which enables you to see things you wouldn't normally be able to see.",68,59,43,-1
+"Third Eye can be used to [1B]C2determine enemy strength[1B]R. Strong enemies have a red aura, and weak enemies have a blue aura. Use this information to choose which battles to fight.",69,59,44,-1
+BOND is now accessible from the command menu. Spend [1B]C2BOND points[1B]R and obtain BOND skills to enhance the abilities of the Phantom Thieves.,70,17,45,-1
+Certain skills are locked by a [1B]C2level cap[1B]R. The conditions for unlocking these level caps will be revealed as you progress through the story.,71,17,46,-1
+The Jail is composed of many different areas. Press [1B]PJ to view [1B]C2a map of each area[1B]R. Use these maps to get an understanding of where your objective is.,72,60,47,-1
+"Be mindful of the [1B]C2security level[1B]R while exploring the
+Jail, as raising the security level has a number of
+effects. Be aware that if the security level reaches
+100%, you will be forced to [1B]C2withdraw from the Jail[1B]R.",73,26,48,-1
+You can [1B]C2lower the security level[1B]R by [1B]C2winning battles[1B]R. You can also check the security level by using Third Eye with [1B]P8.,74,26,-1,-1
+"[1B]C2[1B]P3 while in hiding: Ambush[1B]R
+After using phantom dash to go into hiding, you can press [1B]P3 to perform an [1B]C2ambush[1B]R.",75,137,160,-1
+"If the security level is [1B]C2raised past a certain point[1B]R, a barrier will appear around the [1B]C2treasure chests[1B]R in the Jail, [1B]C2preventing them from being opened[1B]R. If the security level is lowered, they can be opened again.",76,75,49,-1
+"If party members are repeatedly hit by too many attacks, it can result in a [1B]C2knockdown[1B]R. You are more likely to get knocked down if your [1B]C2weakness[1B]R is hit, or if you are struck by a [1B]C2Critical[1B]R or [1B]C2Technical hit[1B]R.",77,25,100,-1
+You cannot act while you are knocked down. You'll [1B]C2recover faster through movement inputs[1B]R.,78,25,-1,-1
+Certain things will [1B]C2light up[1B]R when you use [1B]C2Third Eye[1B]R. These usually indicate points which you can [1B]C2phantom dash[1B]R to [1B]C2go into hiding[1B]R.,79,91,50,-1
+"As you explore the Jail, you will encounter [1B]C2checkpoints[1B]R. Accessing a checkpoint will register it, allowing you to use the [1B]C2same functions that you could at the Jail's entrance[1B]R.",80,14,51,-1
+"Registering checkpoints also allows you to move [1B]C2freely between them[1B]R, so it is advised to register them whenever possible.",81,14,52,-1
+"In hacking battles, you must protect Oracle until she completes her hack. [1B]C2If Oracle's HP reaches zero, you will lose[1B]R. Keep an eye on Oracle's HP at the top of the screen.",82,78,54,-1
+Hacking battles will [1B]C2progress more smoothly[1B]R if you are able to [1B]C2keep Oracle safe[1B]R.,83,89,55,-1
+"[1B]C2Preventing enemies from getting close[1B]R, [1B]C2keeping her health high[1B]R, and [1B]C2protecting her with defensive skills[1B]R should all prove effective. Skills that can be used on allies can be used on Oracle by targeting her with [1B]P7.",84,89,56,-1
+"Oracle is able to equip protectors just like the rest of the Phantom Thieves. In addition to standard female gear, there is also [1B]C2special gear that only Oracle can equip[1B]R.",85,90,57,-1
+It is recommended that Oracle have a protector equipped for any future hacking battles that may occur.,86,90,-1,-1
+"Using [1B]C2Third Eye[1B]R can [1B]C2reveal hidden phantom dash[1B]R points, or give you hints on how to find the way forward.",87,28,53,-1
+"You can [1B]C2escape from a battle[1B]R by continuously running into a [1B]C2blue KEEP OUT barrier[1B]R at the edge of a battle area. However, [1B]C2escape is not possible[1B]R through a [1B]C2red KEEP OUT barrier[1B]R.",88,27,109,-1
+"Upon [1B]C2successfully escaping[1B]R, the [1B]C2battle will end[1B]R. However, be aware that there are penalties for doing so.",89,27,-1,-1
+"At the hideout, you can use ingredients to [1B]C2cook food[1B]R. These dishes can restore HP and SP or grant buffs, among other powerful effects.",90,54,58,-1
+"You will be able to [1B]C2cook more dishes[1B]R as you [1B]C2learn recipes[1B]R. You can obtain recipes from [1B]C2regional shops[1B]R or through [1B]C2certain events[1B]R, so make sure to keep an eye out.",91,54,-1,-1
+"[1B]C2Treasure Demons[1B]R are special Shadows that lurk within Jails. If you can defeat one, it will drop a [1B]C2valuable item[1B]R.",92,56,60,-1
+"When a battle begins, a [1B]C2time limit[1B]R will be displayed. When time runs out, the Treasure Demon will escape. [1B]C2Strike its weakness[1B]R to draw out the main body, then take it down as quickly as possible.",93,56,61,-1
+"Treasure Demons tend to [1B]C2appear more often[1B]R as you [1B]C2continue exploring or battling[1B]R, or by [1B]C2keeping the security level high[1B]R. Be on the lookout for Treasure Demons as you explore the Metaverse.",94,56,-1,-1
+"You can now enter a Jail in another city. At the hideout, choose [1B]C2Explore Jail[1B]R, then select which Jail to enter. Make use of this in order to level up or explore for treasure.",95,63,62,-1
+"The [1B]C2Request[1B]R feature has been added. Requests must be [1B]C2accepted[1B]R before they can be completed. To accept requests, go to the [1B]C2hideout[1B]R, then choose [1B]C2View Requests[1B]R.",96,67,63,-1
+You will receive requests as you [1B]C2progress through the story[1B]R. This will be indicated by the [1B]C2REQ icon[1B]R on the left side of the screen. Requests can be accepted either [1B]C2at the hideout or through the command menu[1B]R.,97,86,-1,-1
+"After [1B]C2fulfilling the condition of the request[1B]R, report it to [1B]C2complete it[1B]R. Requests can be completed [1B]C2either at the hideout or through the command menu[1B]R. Requests cannot be turned in from inside the Metaverse.",98,86,-1,-1
+"There are two types of requests: Requests that can only be completed once, and those that can be completed multiple times for repeated rewards.",99,145,64,-1
+Requests that can be repeated multiple times have [1B]C2a first-time reward and a repeat reward[1B]R. Check the details of the request to confirm the rewards.,100,145,65,-1
+"Once you choose to go to the next city, you will be [1B]C2unable to return to the city you are currently in[1B]R. Make sure to buy limited items and take care of business that can only be done in that city.",101,55,-1,-1
+"Unlike the cities in the real world, [1B]C2you can revisit past Jails at any time[1B]R. However, be aware that [1B]C2requests obtained from conversing with your friends in past cities[1B]R will [1B]C2no longer be available to accept or complete[1B]R.",102,55,66,-1
+Most [1B]C2status ailments[1B]R can be cleansed with [1B]C2items or recovery skills[1B]R. Some ailments can also have their effects [1B]C2shortened[1B]R by [1B]C2movement inputs[1B]R.,103,32,-1,-1
+[1B]Z,104,70,-1,-1
+[1B]C2Technical hits[1B]R can be triggered by [1B]C2using the corresponding skills[1B]R on enemies that are inflicted with [1B]C2status ailments[1B]R. They can deal increased damage as well as [1B]C2deplete the down gauge[1B]R.,105,16,93,-1
+"Party members inflicted with [1B]C2Burn[1B]R will temporarily [1B]C2take damage over time[1B]R. This can be cured with [1B]C2Amrita Drop[1B]R, as well as other items and recovery skills.",106,33,75,-1
+Enemies inflicted with [1B]C2Burn[1B]R will temporarily [1B]C2take damage over time[1B]R. [1B]C2Wind and Nuclear[1B]R attacks will trigger a [1B]C2Technical hit[1B]R.,107,33,76,-1
+"Party members inflicted with [1B]C2Freeze[1B]R will become [1B]C2unable to act[1B]R. This can be cured with [1B]C2Amrita Drop[1B]R, as well as other items and recovery skills.",108,34,77,-1
+Enemies inflicted with [1B]C2Freeze[1B]R will become [1B]C2unable to act[1B]R. [1B]C2Physical and Nuclear[1B]R attacks will trigger a [1B]C2Technical hit[1B]R.,109,34,78,-1
+"Party members inflicted with [1B]C2Shock[1B]R will [1B]C2have their movement speed reduced[1B]R. This can be cured with [1B]C2Amrita Drop[1B]R, as well as other items and recovery skills.",110,35,79,-1
+Enemies inflicted with [1B]C2Shock[1B]R will [1B]C2have their movement speed reduced[1B]R. [1B]C2Physical and Nuclear[1B]R attacks will trigger a [1B]C2Technical hit[1B]R. Close-ranged attacks from Shocked enemies have a chance of spreading the ailment.,111,35,80,-1
+"Party members inflicted with [1B]C2Dizzy[1B]R will [1B]C2have their visibility reduced[1B]R. The effect disappears when you are hit by an enemy attack. This can be cured with [1B]C2Amrita Drop[1B]R, as well as other items and recovery skills.",112,36,81,-1
+Enemies inflicted with [1B]C2Dizzy[1B]R will [1B]C2have a chance of missing their attacks[1B]R. [1B]C2Any attack that the enemy does not absorb or nullify[1B]R will trigger a [1B]C2Technical hit[1B]R.,113,36,82,-1
+"Party members inflicted with [1B]C2Forget[1B]R will become [1B]C2unable to use Persona skills[1B]R. This can be cured with [1B]C2Amrita Drop[1B]R, as well as other items and recovery skills.",114,37,83,-1
+Enemies inflicted with [1B]C2Forget[1B]R will become [1B]C2unable to use skills[1B]R.,115,37,84,-1
+"Party members inflicted with [1B]C2Sleep[1B]R will become [1B]C2unable to act[1B]R, but will [1B]C2recover HP and SP[1B]R over time. This can be cured with [1B]C2Amrita Drop[1B]R, as well as other items and recovery skills.",116,38,85,-1
+"Enemies inflicted with [1B]C2Sleep[1B]R will become [1B]C2unable to act[1B]R, but will [1B]C2recover HP[1B]R over time. [1B]C2Any attack that the enemy does not absorb or nullify[1B]R will trigger a [1B]C2Technical hit[1B]R.",117,38,86,-1
+"Party members inflicted with [1B]C2Fear[1B]R will become [1B]C2unable to act[1B]R, and will be [1B]C2unable to Baton Pass[1B]R. This can be cured with [1B]C2Amrita Drop[1B]R, as well as other items and recovery skills.",118,40,87,-1
+Enemies inflicted with [1B]C2Fear[1B]R will become [1B]C2unable to act[1B]R. [1B]C2Psychokinesis[1B]R attacks will trigger a [1B]C2Technical hit[1B]R.,119,40,88,-1
+"Party members inflicted with [1B]C2Rage[1B]R will have their [1B]C2Attack increased and Defense reduced[1B]R, and they will [1B]C2repeatedly use their standard attack[1B]R. This can be cured with [1B]C2Amrita Drop[1B]R, as well as other items and recovery skills.",120,42,89,-1
+"Enemies inflicted with [1B]C2Rage[1B]R will have their [1B]C2Attack increased and Defense reduced[1B]R, and will [1B]C2only use basic attacks[1B]R. [1B]C2Psychokinesis[1B]R attacks will trigger a [1B]C2Technical hit[1B]R.",121,42,90,-1
+"Party members inflicted with [1B]C2Brainwash[1B]R will [1B]C2attack their teammates[1B]R. This can be cured with [1B]C2Amrita Drop[1B]R, as well as other items and recovery skills.",122,43,91,-1
+Enemies inflicted with [1B]C2Brainwash[1B]R will [1B]C2attack their fellow Shadows[1B]R. [1B]C2Psychokinesis[1B]R attacks will trigger a [1B]C2Technical hit[1B]R.,123,43,92,-1
+"A Persona can remember [1B]C2up to eight skills[1B]R. If it learns another skill and has no room to learn more, it will need to [1B]C2forget a skill[1B]R.",124,20,94,-1
+"A forgotten skill can be remembered by accessing [1B]C2Persona[1B]R from the command menu. However, skills learned through fusion or other methods of strengthening will disappear if forgotten.",125,20,95,-1
+"While exploring the Metaverse, you will notice items scattered around. These can vary from [1B]C2junk that can be sold for money[1B]R, to valuable [1B]C2recovery items[1B]R. Make sure to pick up items whenever you see them.",126,64,97,-1
+"When you are attacked, there is a chance you will [1B]C2automatically evade[1B]R it. The chance of this happening is affected by your Persona's Ag stat.",127,31,96,-1
+"When you are inflicted with a [1B]C2status ailment[1B]R, your teammates may sometimes [1B]C2cure[1B]R it for you. The chance of this happening can be raised with a BOND skill.",128,12,102,-1
+"By using Skill Cards, you can [1B]C2make a Persona learn a specific skill[1B]R. Once a skill card is used, it will be lost.",129,15,98,-1
+"One of Oracle's special support skills. This can grant [1B]C2Kaja-type buffs[1B]R, [1B]C2HP recovery[1B]R, and [1B]C2SP recovery[1B]R, among other beneficial effects.",130,83,110,-1
+"One of Oracle's special support skills. This can grant [1B]C2a buff to deal over double the damage for Physical attacks[1B]R and [1B]C2increase the rate that the Showtime gauge fills[1B]R, among other beneficial effects.",131,84,111,-1
+One of Oracle's special support skills. This can [1B]C2nullify the damage from an attack[1B]R that would [1B]C2KO a party member[1B]R.,132,85,112,-1
+"When an item goes out of stock, it may need to be [1B]C2resupplied[1B]R. Items like these will [1B]C2restock after enough time passes[1B]R. Try checking back after fighting battles in the Metaverse or progressing through the story.",133,94,115,-1
+"There are also some items that will cease being sold, and will not be restocked over time.",134,94,-1,-1
+"A certain BOND skill will enable [1B]C2timed sales[1B]R in Sophia's online shop. For a limited time, [1B]C2specific items will be available to purchase at a lower price[1B]R. Make sure to jump on a sale if it's an item you want.",135,95,116,-1
+Some treasure chests may [1B]C2restock their contents[1B]R when you [1B]C2infiltrate the Metaverse[1B]R. Be careful not to raise the security level so that you can open as many treasure chests as possible.,136,92,113,-1
+"Certain chests will be [1B]C2unopenable[1B]R without the [1B]C2lockpicking BOND skill[1B]R. The required lockpicking level differs depending on the chest. If you find a chest you can't open, try raising your lockpicking level first.",137,93,114,-1
+A new set of BOND skills have been unlocked. These allow you to [1B]C2strengthen the skills of your Personas[1B]R. Be sure to take advantage of this new power in future battles.,138,1,59,-1
+Joker's maximum Persona stock has been increased. You can now carry [1B]C2up to ten[1B]R Personas at one time. Raise a variety of Personas to handle any combat situation.,139,39,67,-1
+You can now use triad fusion. Personas born from this fusion are [1B]C2more likely to receive stat bonuses[1B]R. Make use of this whenever you can.,140,41,-1,-1
+"You are now able to strengthen Persona stats. By spending Persona Points, you can increase a Persona's [1B]C2St[1B]R, [1B]C2Ma[1B]R, [1B]C2En[1B]R, [1B]C2Ag[1B]R, and [1B]C2Lu[1B]R.",141,62,70,-1
+"Zenkichi doesn't have the power to fight Shadows. You must reach the [1B]M1~18~ marker without being detected. [1B]C2If you are spotted, it is game over[1B]R.",142,141,-1,-1
+"[1B]C2Enemies won't spot you while you are in hiding[1B]R. Watch their movements carefully and make use of cover to proceed while avoiding detection. ",143,141,69,-1
+"Requests to defeat powerful enemies have been added. [1B]C2Accept the corresponding request[1B]R, then [1B]C2go to the designated location[1B]R to initiate the battle.",144,126,71,-1
+"These enemies are immensely powerful, but [1B]C2completing the requests[1B]R will allow you to [1B]C2obtain them as Personas through fusion[1B]R.",145,126,-1,-1
+You can now use quad and pentad fusions. The Personas born from these fusions possess power of the highest class. Try and fuse them if you have the opportunity.,146,127,-1,-1
+Welcome to the post-clear game. Your game will continue just before the battle with the Demiurge.,147,129,-1,-1
+"[1B]C2New requests have been added.[1B]R
+Try to complete all the requests that have a
+""strong reading"" and the ""Painful Past+""
+requests in order to challenge a ""terrifying foe.""",148,129,-1,-1
+"New Game+ has been unlocked. When you save your
+progress for this playthrough, ""MASTERED"" will be
+shown on the save file.",149,130,73,-1
+"When you load [1B]C2a save file marked with ""MASTERED""[1B]R,
+you will start from the beginning of the game,
+while carrying over certain elements from your
+previous playthrough.",150,130,-1,-1
+"There are certain elements that are only available in New Game+. [1B]C2Merciless difficulty is added[1B]R, [1B]C2Lucifer becomes unlocked for fusion[1B]R, and [1B]C2incense can now be purchased from Sophia's online shop[1B]R.",151,131,-1,-1
+"The story will remain unchanged, however [1B]C2Sophie[1B]R will be able to use Pandora from the start, and [1B]C2Wolf[1B]R will immediately be available as a teammate.",152,131,-1,-1
+Be aware that certain key items and the completion status of requests will not be carried over.,153,131,-1,-1
+"Merciless is a challenging and unforgiving difficulty that [1B]C2can only be selected at the start of New Game+[1B]R. Battle rewards are greatly increased, and extra content is available. There is no additional story content.",154,132,-1,-1
+"If you choose Merciless, [1B]C2you cannot change the difficulty later[1B]R. Think carefully before deciding.",155,132,-1,-1
+"By checking the color of the enemy skill alert, you can determine your affinity towards that skill. [1B]C2White[1B]R indicates [1B]C2regular affinity[1B]R or [1B]C2resistance[1B]R; it is best to simply avoid these attacks.",156,134,104,-1
+"[1B]C2Red[1B]R indicates a [1B]C2weakness[1B]R to that enemy skill's affinity. These skills will deal heavy damage, and may even knock you down. Be vigilant about avoiding these attacks.",157,134,105,-1
+"[1B]C2Gray[1B]R means [1B]C2Null[1B]R, and [1B]C2Blue[1B]R indicates [1B]C2Drain[1B]R affinity. You will not take damage from skills of these affinities, so you can safely focus on attacking.",158,134,106,-1
+[1B]Z,159,-1,-1,-1
+Teammates who are fighting alongside you may [1B]C2support you[1B]R by using [1B]C2recovery[1B]R or [1B]C2buff[1B]R skills.,160,136,108,-1
+"[1B]C2[1B]P0 during on-screen prompt: Follow-Up Attack[1B]R
+When you hit the enemy with certain attacks, you will be able to [1B]C2follow up[1B]R. This allows you to leap at the enemy and link into a chain of [1B]P2 attacks.",161,72,101,-1
+"After the midair [1B]P2 attack chain, use a Persona skill with [1B]P3, or hold [1B]P3 to link into a midair special attack.",162,72,-1,-1
+"If you [1B]C2evade an attack with perfect timing[1B]R, you will [1B]C2counterattack that enemy with a skill of your current Persona's affinity[1B]R. Though risky to attempt, you'll get a huge advantage if you can strike your foe's weakness.",163,73,-1,136
+"[1B]C2The hero with the power of the wild card![1B]R
+Joker wields [1B]C2multiple Personas[1B]R, and can [1B]C2swap between
+them at will[1B]R. His [1B]C2special attacks change[1B]R depending on
+his equipped Persona. See [1B]C2Tutorial[1B]R for more details.",164,133,117,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2: A chain of six knife attacks.
+[1B]P2[1B]P3: An upward leap combined with an upward slash.
+Can be comboed into air attacks.",165,96,-1,-1
+"[1B]P2[1B]P2[1B]P3: A sharp stab attack. Press [1B]P3 again for an additional Persona attack.
+[1B]P2[1B]P2[1B]P2[1B]P3: Summon Persona for a combo finisher.",166,96,-1,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2[1B]P3: A sweeping slash that may flinch enemies.
+[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2[1B]P3: A massive spinning slash.
+[1B]P3 or midair [1B]P3: Gunshot.",167,96,-1,-1
+"Master the Persona Change! By switching Personas,
+your [1B]C2Persona skills[1B]R, [1B]C2special attacks[1B]R, and even your
+[1B]C2weaknesses and resistances[1B]R will change. Use different
+Personas to suit your needs.",168,97,126,-1
+"[1B]C2Charge up, then let 'em have it![1B]R
+After Skull's [1B]P2 attacks, special attacks can be charged
+by holding [1B]P3. [1B]C2Attack power and range increase as he
+charges up[1B]R. See [1B]C2Tutorial[1B]R for more details.",169,45,118,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2: A chain of four melee attacks.
+[1B]P3: Activates Toughness, which reduces damage taken
+and makes you harder to flinch.",170,99,-1,-1
+"[1B]P2[1B]P3 (hold to charge): Slam attack.
+[1B]P2[1B]P2[1B]P3 (hold to charge): Full swing. Charging will
+increase both damage and launch power.",171,99,-1,-1
+"[1B]P2[1B]P2[1B]P2[1B]P3 (hold to charge): Summon Captain Kidd to
+use an Electric skill.
+[1B]P3 in midair: Execute a dive kick. Press [1B]P3 repeatedly
+on hit for more kicks.",172,99,-1,-1
+"Master the art of charge moves! In addition to using
+Toughness to tank damage, you can also [1B]C2use [1B]P5 to
+evade in the middle of charging[1B]R to avoid attacks.
+Your [1B]C2gun attack can be charged[1B]R as well.",173,100,127,-1
+"Captain Kidd learns many [1B]C2Electric[1B]R and [1B]C2Physical[1B]R skills. Use Electric attacks to inflict [1B]C2Shock[1B]R on your enemies, then switch to [1B]C2Physical[1B]R attacks to score [1B]C2Technical hits[1B]R.",174,100,128,-1
+"[1B]C2The miraculously fast fighter![1B]R
+Mona uses swift movement to unleash a flurry of
+special attacks on his foes. He can [1B]C2transform into the
+Morgana Car[1B]R with [1B]P3. See [1B]C2Tutorial[1B]R for more details.",175,46,119,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2: A chain of five sword attacks.
+[1B]P3: Transform into the Morgana Car. It is also possible
+to tackle enemies while driving.",176,102,-1,-1
+"[1B]P2[1B]P3: A rising spin slash.
+[1B]P2[1B]P2[1B]P3: A punch with high chance of Critical.
+[1B]P2[1B]P2[1B]P2[1B]P3: Summon Zorro to use a Wind skill.",177,102,-1,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2[1B]P3 (hold to extend): An advancing vertical
+spin attack. Hold [1B]P3 to extend the distance traveled.",178,102,-1,-1
+"Master a diverse suite of actions! Mona is a versatile
+fighter with spin attacks that pull enemies in and a
+far-reaching punch attack. [1B]C2Switch between the air and
+ground[1B]R to perform varied combos.",179,103,129,-1
+Zorro learns many [1B]C2Wind[1B]R skills. These are especially effective at scoring [1B]C2Technical hits[1B]R against [1B]C2burning[1B]R enemies. Pair up with Joker or Panther to inflict large quantities of damage.,180,103,130,-1
+"[1B]C2Can you handle the heat?[1B]R
+Panther's specialty is using a whip, as well as a variety
+of Fire attacks. She can also use [1B]C2Enchant to add Fire
+affinity to her whip[1B]R. See [1B]C2Tutorial[1B]R for more details.",181,47,120,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2: A chain of five whip attacks.
+[1B]P2[1B]P3: A scooping whip swing that launches enemies.
+[1B]P2[1B]P2[1B]P3: Whip slam attack.",182,105,-1,-1
+"[1B]P2[1B]P2[1B]P2[1B]P3: Summon Carmen to use a Fire skill.
+[1B]P2[1B]P2[1B]P2[1B]P2[1B]P3: Twirl the whip, then ignite the ground
+with a crack.",183,105,-1,-1
+"[1B]P3: Activates Enchant, which temporarily applies Fire
+affinity to the whip.
+[1B]P3 during Enchant: Perform a chain of attacks followed
+by a blazing Fire attack. Removes Enchant.",184,105,-1,-1
+"Master the use of Enchant! In addition to the standard
+[1B]P3, Enchant can also be activated using [1B]C2midair [1B]P3, as
+well as [1B]P2[1B]P2[1B]P2[1B]P2[1B]P3[1B]R. It is important to understand
+when to apply and remove Enchant.",185,106,131,-1
+"Carmen's many [1B]C2Fire[1B]R skills can inflict [1B]C2Burn[1B]R on enemies, making them vulnerable to [1B]C2Technical hits[1B]R from [1B]C2Wind[1B]R skills. Burn your foes with [1B]C2Fire[1B]R skills, then use Baton Pass with Joker or Mona for high-damage combos.",186,106,130,-1
+"[1B]C2Swift swordplay faster than the naked eye![1B]R
+Fox's [1B]P3 unleashes [1B]C2a flurry of slashes[1B]R or protects himself
+with [1B]C2counters[1B]R. Time your attacks well to deal heavy
+damage. See [1B]C2Tutorial[1B]R for more details.",187,48,121,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2: A chain of five sword slashes.
+[1B]P2[1B]P3 (press repeatedly): Launching attack.
+[1B]P2[1B]P2[1B]P3 (press repeatedly): Multi-thrust.",188,108,-1,-1
+"[1B]P2[1B]P2[1B]P2[1B]P3 (press repeatedly): After the flurry of slashes,
+Goemon uses an Ice skill once sword is sheathed.
+[1B]P2[1B]P2[1B]P2[1B]P2[1B]P3: After the counter period, unleash a
+wide-sweeping attack.",189,108,-1,-1
+"[1B]P3: Counter. Enter a stance with sword ready, then
+counterattack if attacked. An enemy can be further
+attacked repeatedly if successful.",190,108,-1,-1
+"Aim for more hits after a successful counter! When
+Fox [1B]C2flashes[1B]R during [1B]P3, after midair [1B]P3, or at the end
+of [1B]P2[1B]P2[1B]P2[1B]P2[1B]P3, he [1B]C2can counter attacks[1B]R. If a counter is
+triggered, repeatedly attack the enemy for more hits.",191,109,132,-1
+"Goemon learns many [1B]C2Ice[1B]R and [1B]C2Physical[1B]R skills. Use Ice attacks to inflict [1B]C2Freeze[1B]R on your enemies, then switch to [1B]C2Physical[1B]R attacks to score [1B]C2Technical hits[1B]R.",192,109,133,-1
+"[1B]C2Go full throttle with Burst![1B]R
+Queen's [1B]P3 grants her [1B]C2Burst[1B]R, temporarily applying
+[1B]C2Nuclear affinity[1B]R to melee, gun, and special attacks
+when riding Johanna. See[1B]C2Tutorial[1B]R for more details.",193,49,122,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2: A chain of six melee attacks.
+[1B]P2[1B]P3: A full-body uppercut.
+[1B]P2[1B]P2[1B]P3: A front-wheelie slam.",194,111,-1,-1
+"[1B]P2[1B]P2[1B]P2[1B]P3: Summon Johanna to use a Nuclear skill.
+[1B]P2[1B]P2[1B]P2[1B]P2[1B]P3: Drive Johanna and run through enemies.
+[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2[1B]P3: An onslaught of punches.",195,111,-1,-1
+"[1B]P3: Burst. Standard and special attacks with Johanna
+will temporarily trigger Nuclear affinity explosions.",196,111,-1,-1
+"Master the use of Burst! After activating [1B]C2Burst[1B]R with [1B]P3,
+your attacks will trigger [1B]C2additional Nuclear damage[1B]R.
+Be mindful of enemies that can resist or even Drain
+your Nuclear attacks.",197,112,134,-1
+"Johanna's [1B]C2Nuclear[1B]R skills can trigger [1B]C2Technical hits[1B]R on enemies that are [1B]C2burning[1B]R, [1B]C2frozen[1B]R, or [1B]C2shocked[1B]R. Team up with Joker, Skull, Panther, or Fox and synergize your attacks.",198,112,135,-1
+"[1B]C2Elegantly holding down the fort![1B]R
+Noir's [1B]P3 attacks can be [1B]C2extended by holding[1B]R [1B]P3.
+Look for safe opportunities, then rack up the
+damage. See [1B]C2Tutorial[1B]R for more details.",199,50,123,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2: A chain of four axe attacks.
+[1B]P3 (hold to extend): Summon Milady for an
+explosive crossfire.",200,114,-1,-1
+"[1B]P2[1B]P3 (hold to extend): Downward slice.
+[1B]P2[1B]P2[1B]P3 (hold to extend): Summon Milady to use a Psychokinesis skill.
+[1B]P2[1B]P2[1B]P2[1B]P3 (hold to extend): Giant spin attack.",201,114,-1,-1
+"Midair [1B]P3 (hold to extend): Vertical spin attack.
+Hold [1B]P3 to link into the downward slice.",202,114,-1,-1
+"Look for opportunities to hold the button! [1B]C2All attacks
+can be extended by holding [1B]P3[1B]R. [1B]C2Psychokinesis
+skills[1B]R and [1B]C2Gun special attacks[1B]R can also be [1B]C2extended[1B]R.
+Capitalize on openings for big damage.",203,115,136,-1
+"Milady's [1B]C2Psychokinesis[1B]R skills can trigger [1B]C2Technical hits[1B]R on enemies that are inflicted with [1B]C2Fear[1B]R, [1B]C2Rage[1B]R, [1B]C2Brainwash[1B]R, [1B]C2Dizzy[1B]R, or [1B]C2Sleep[1B]R. Milady also learns many [1B]C2Gun skills[1B]R. Make use of the tools available to you.",204,115,137,-1
+"[1B]C2Perfect Catch and upgrade![1B]R
+Press [1B]P2 or [1B]P3 as Sophie's yo-yos come back to perform
+a [1B]C2Perfect Catch[1B]R, which will [1B]C2enhance her attacks[1B]R.
+See [1B]C2Tutorial[1B]R for more details.",205,52,124,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2: A chain of six yo-yo attacks.
+[1B]P2[1B]P3: Yo-yo spin trick.
+[1B]P2[1B]P2[1B]P3: Double loop.",206,120,-1,-1
+"[1B]P2[1B]P2[1B]P2[1B]P3: Summon Persona to use a Bless skill.
+[1B]P2[1B]P2[1B]P2[1B]P2[1B]P3: Send out both yo-yos in a wide spin attack.
+[1B]P2[1B]P2[1B]P2[1B]P2[1B]P2[1B]P3: Launch yo-yos down and ahead, then
+summon Persona for additional attack.",207,120,-1,-1
+"[1B]P3: Upgrade. Temporarily increase the power and range
+of attacks. Perfect Catches will also trigger an upgrade.",208,120,-1,-1
+"Master performing Perfect Catches! Watch for the
+timing [1B]C2when your hands light up[1B]R, then [1B]C2press [1B]P2 or [1B]P3[1B]R
+to perform a [1B]C2Perfect Catch[1B]R, which will [1B]C2immediately
+raise your attack power[1B]R.",209,121,138,-1
+"After successfully performing a Perfect Catch, the yo-yos will be temporarily [1B]C2upgraded[1B]R. While they are lit up, their attack power and range will be increased. This upgrade can be applied [1B]C2up to two times[1B]R.",210,121,139,-1
+"Sophie acquires many [1B]C2Bless[1B]R skills and [1B]C2healing[1B]R abilities. As humanity's companion, she will serve the Phantom Thieves well in both an offensive and support role.",211,121,140,-1
+"[1B]C2Find the balance between Fury and life drain![1B]R
+[1B]P3 activates Wolf's [1B]C2Fury[1B]R. Though powerful, he will [1B]C2lose
+HP[1B]R over time. When deactivated, his special attacks
+allow him to [1B]C2recover HP[1B]R. See [1B]C2Tutorial[1B]R for more details.",212,53,125,-1
+"[1B]P2[1B]P2[1B]P2[1B]P2: A chain of four sword attacks.
+[1B]P3: Activates/deactivates Fury.",213,123,-1,-1
+"[1B]P2[1B]P3 (hold to extend): Send out a shockwave.
+Hold [1B]P3 to increase power.
+[1B]P2[1B]P2[1B]P3 (hold to extend): Downward slam.
+Hold [1B]P3 for more hits.",214,123,-1,-1
+"[1B]P2[1B]P2[1B]P2[1B]P3 (press repeatedly): Spinning slash. Press the button repeatedly for more hits. After the attack, Valjean unleashes an Almighty skill as a finisher.",215,123,-1,-1
+"Keep an eye on the damage from Fury! [1B]C2While Fury is
+active[1B]R, your attacks will create [1B]C2shockwaves[1B]R and your
+[1B]C2speed will increase[1B]R, but you will [1B]C2take damage[1B]R. Watch
+your HP and recoup your losses.",216,124,141,-1
+"Aiming your guns will deactivate Fury. Your [1B]C2gun attacks can drain HP as well[1B]R. In addition, aiming and [1B]C2holding [1B]P4[1B]R will unleash a barrage of bullets in all directions. Use different attacks to suit different situations.",217,124,142,-1
+"Valjean learns many [1B]C2Almighty[1B]R and [1B]C2Gun[1B]R skills, as well as [1B]C2buffing[1B]R skills. His strength becomes more pronounced when he is in control of the battle. Show those kids how a real adult handles things.",218,124,143,-1
+"When you fully deplete the down gauge of a [1B]C2powerful enemy[1B]R, it will trigger a [1B]C2special All-Out Attack[1B]R. This provides an opportunity to deal significant damage.",219,138,103,-1
+"If you are already carrying the maximum number of Personas, and you obtain a Persona you have never held previously, the Persona will be [1B]C2automatically entered into the Inmate Registry[1B]R.",220,139,144,-1
+Personas obtained in this manner will [1B]C2not require a fee on their first summoning from the registry[1B]R. Take advantage of this service when you have room to carry more Personas.,221,139,145,-1
+"Each character has their own unique set of skills known as [1B]C2Master Arts[1B]R. By [1B]C2using that character[1B]R, they will gradually learn these abilities.",222,140,146,-1
+"As a character learns Master Arts, their capabilities in battle will expand. Check each character's details under [1B]C2Stats[1B]R for more information.",223,140,147,-1
+"On Merciless difficulty, you will be [1B]C2unable to select
+""Retry battle""[1B]R after losing in battle.",224,142,-1,-1
+"The only available options will be ""Return to start
+of infiltration"" (or checkpoint), or ""Return to Title.""
+Remember to approach battles with caution on
+Merciless difficulty.",225,142,74,-1
+"You can now use Analysis. [1B]C2Enemy information will be displayed[1B]R while summoning a Persona with [1B]P4, by using Third Eye with [1B]P8, or when Oracle performs a scan.",226,148,150,-1
+"Analysis allows you to confirm a Shadow's [1B]C2weaknesses[1B]R and [1B]C2resistances[1B]R, as well as [1B]C2whether or not they have a chance of dropping a mask[1B]R, among other useful data.",227,148,151,-1
+Some [1B]C2cooking recipes[1B]R can be sold in local shops. Don't miss the opportunity to buy them whenever you find them.,228,149,152,-1
+"If you miss out on any recipes, [1B]C2it is still possible to buy them from Sophia's online shop[1B]R. However, be aware that obtaining them this way will be much more expensive.",229,149,161,-1
+"During Persona fusion, there is a rare chance of fusing [1B]C2a different Persona than the one that was expected[1B]R.",230,150,-1,-1
+"Personas born from fusion accidents are [1B]C2more likely to receive stat bonuses[1B]R, so they may start out fairly strong.",231,150,-1,-1
+Some requests can be added by speaking to [1B]C2your teammates in the Phantom Thieves[1B]R. Try talking to your friends if you run into them while exploring a city.,232,151,-1,-1
+"When Oracle takes damage, she can be healed with [1B]C2Persona skills or recovery items[1B]R. Keep an eye on her HP to ensure it doesn't get too low.",233,152,56,-1
+"Personas born from fusion may receive [1B]C2stat bonuses[1B]R. These Personas will be [1B]C2stronger than the ones you can pick up from battles[1B]R, so make use of fusion as much as possible.",234,154,-1,-1
+"A Persona is more likely to receive stat bonuses when you fuse [1B]C2a Persona that has been repeatedly used in fusion[1B]R. The [1B]C2more fusions it has been through[1B]R, the higher the chance for stat bonuses.",235,154,-1,-1
+"The [1B]C2Inmate Registry[1B]R keeps track of Personas that
+have been repeatedly used in fusion, so you can
+easily summon them back to fuse strong Personas
+with stat bonuses.",236,154,-1,-1
+[1B]C2Personas whose stats have been boosted via spending Persona Points[1B]R will also be more likely to grant stat bonuses when they are used in fusion. This is another method to fuse powerful Personas with stronger stats.,237,155,-1,-1
+"The difficulty level of battles can be changed on the title screen, or by navigating to [1B]C2Config[1B]R, which is found under [1B]C2System[1B]R in the command menu. [1B]C2The difficulty level can be changed at any time[1B]R.",238,156,-1,-1
+"Easy: Allows you to comfortably enjoy battles.
+Normal: Allows you to enjoy a moderate challenge.
+Hard: For advanced players who are familiar with action games.",239,156,-1,-1
+"You can return to the real world from either the [1B]C2Jail entrance[1B]R, or through a [1B]C2checkpoint[1B]R. Returning to the real world will [1B]C2restore all HP and SP[1B]R, and resets the security level back to 0%.",240,157,163,-1
+"There are [1B]C2no downsides[1B]R to leaving the Jail. If you are exhausted from battling, or the security level is too high, retreating is a very viable option.",241,157,-1,-1
+"Certain enemies will emit a bluish-white light. These foes are known as [1B]C2Dire Shadows[1B]R, and are [1B]C2much more powerful[1B]R than average enemies. Only challenge these behemoths if you are confident in your fighting skills.",242,158,162,-1
+[1B]Z,243,-1,-1,-1
+[1B]Z,244,-1,-1,-1
+[1B]Z,245,-1,-1,-1
+[1B]Z,246,-1,-1,-1
+[1B]Z,247,-1,-1,-1
+[1B]Z,248,-1,-1,-1
+[1B]Z,249,-1,-1,-1
+[1B]Z,250,-1,-1,-1
+[1B]Z,251,-1,-1,-1
+[1B]Z,252,-1,-1,-1
+[1B]Z,253,-1,-1,-1
+[1B]Z,254,-1,-1,-1
+[1B]Z,255,-1,-1,-1
