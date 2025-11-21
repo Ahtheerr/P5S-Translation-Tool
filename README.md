@@ -11,9 +11,11 @@
 
 Before anything else, huge thanks to the following individuals whose work made this possible:
 
-* **Cethleann**: For the encryption method.
-* **Meloman19**: For the inspiration provided by their *P5R-Translation-Tool*.
+* **[Cethleann](https://github.com/neptuwunium/Cethleann)**: For the encryption method.
+* **[Meloman19](https://github.com/Meloman19/P5R-Translation-Tool)**: For the inspiration provided by their *P5R-Translation-Tool*.
 * **VitaSmith**: For [gust_tools](https://github.com/VitaSmith/gust_tools).
+* **[Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)**: For ASIs and loading files without overwriting them.
+* **Myself**: For [P5SLDT](https://github.com/Ahtheerr/Persona-5-Strikers-LINKDATA-Tool)
 
 ---
 
@@ -62,4 +64,3 @@ Please be aware that the **Switch** implementation is currently experimental.
 * It has not been thoroughly tested.
 * Some textures may be missing or fail to pack correctly.
 * Use with caution and please report bugs if encountered.
-* Yes, I know there is a desktop.ini file there, I could not remove it and now it is part of the program. Thanks Google Drive!
